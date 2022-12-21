@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Outliers,datasets,mokar2001/house-price-tehran-iran,"""House Price (Tehran Iran)""",31KB,2021-09-06 08:00:48,1874,58,1.0
+4,Outliers,datasets,broach/button-tone-sz,EEG data from basic sensory task in Schizophrenia,8GB,2019-01-31 18:26:06,4785,194,0.88235295
+6,Outliers,datasets,rubenssjr/brasilian-houses-to-rent,brazilian_houses_to_rent,282KB,2020-03-25 22:51:17,10525,284,1.0
+8,Outliers,datasets,drscarlat/time-series,Time Series with anomalies,4MB,2021-01-30 18:39:27,1341,15,0.64705884
+10,Outliers,datasets,soumikrakshit/anime-faces,Anime Faces,441MB,2019-05-16 10:38:47,7917,174,0.625
+12,Outliers,datasets,raddar/chest-xrays-indiana-university,Chest X-rays (Indiana University),13GB,2020-02-17 19:25:44,2725,59,0.8235294
+14,Outliers,datasets,bharadwaj6/kindle-reviews,Amazon reviews: Kindle Store Category,525MB,2018-05-22 04:50:16,6205,157,1.0
+16,Outliers,datasets,kmader/siim-medical-images,CT Medical Images,250MB,2017-05-23 07:03:06,30415,721,0.7647059
+18,Outliers,datasets,abrahamanderson/outliers,outliers,42KB,2021-06-22 12:51:44,16,3,0.3125
+20,Outliers,datasets,datahackers/state-of-data-2021,State of Data Brazil 2021,539KB,2022-03-31 18:48:28,1919,239,0.9705882
+22,Outliers,datasets,vijaykumar1799/face-mask-detection,Face Mask Detection,222MB,2021-05-19 15:24:14,3900,67,0.875
+24,Outliers,datasets,datahackers/pesquisa-data-hackers-2019,Data Hackers Survey 2019,134KB,2020-05-12 17:37:20,1852,190,0.9705882
+26,Outliers,datasets,arianazmoudeh/airbnbopendata,Airbnb Open Data,10MB,2022-08-01 15:58:10,12903,172,1.0
+28,Outliers,datasets,sohaibanwaar1203/diabetic-rateinopathy-full,Diabetic Rateinopathy Resized ,391MB,2019-05-29 12:53:30,790,22,0.64705884
+30,Outliers,datasets,waitingli/predicting-outliers-to-improve-your-score,Predicting Outliers to Improve Your Score,75MB,2018-12-16 21:13:15,939,5,0.29411766
+32,Outliers,datasets,dorbicycle/world-foodfeed-production,Who eats the food we grow?,874KB,2017-11-30 06:32:35,13934,413,0.85294116
+34,Outliers,datasets,epattaro/brazils-house-of-deputies-reimbursements,Brazil's House of Deputies Reimbursements,34MB,2017-11-03 21:14:48,1790,57,0.8235294
+36,Outliers,datasets,aneelaabdullah/housepriceprediction-cleaned-dataset,House-Price-Prediction Cleaned Dataset,49KB,2022-09-23 07:39:58,729,25,0.88235295
+38,Outliers,datasets,chitwanmanchanda/fraudulent-transactions-data,Fraudulent Transactions Data,178MB,2022-03-01 04:44:51,3680,93,1.0
+40,Outliers,datasets,pranavuikey/black-friday-sales-eda,Black Friday Sales EDA,5MB,2022-09-05 10:22:37,1825,39,1.0

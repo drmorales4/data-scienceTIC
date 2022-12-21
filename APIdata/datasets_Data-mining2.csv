@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,alopez247/pokemon,Pokémon for Data Mining and Machine Learning,715KB,2017-03-05 15:01:26,12988,268,0.85294116
+4,,datasets,allen-institute-for-ai/CORD-19-research-challenge,COVID-19 Open Research Dataset Challenge (CORD-19),18GB,2022-06-06 19:39:40,154306,10221,0.88235295
+6,,datasets,mdepak/fakenewsnet,FakeNewsNet,17MB,2018-11-02 19:08:58,4298,64,0.7647059
+8,,datasets,imoore/mining-core-sampling-dataset,Mining Core Sampling Dataset,22B,2022-02-20 17:55:19,361,46,0.75
+10,,datasets,amritpal333/crypto-mining-data,Cryptocurrency Mining Data,743KB,2021-07-28 16:19:25,488,10,0.88235295
+12,,datasets,arunavakrchakraborty/australia-weather-data,Australia Weather Data,4MB,2022-08-16 17:49:32,1651,37,1.0
+14,,datasets,PromptCloudHQ/amazon-reviews-unlocked-mobile-phones,Amazon Reviews: Unlocked Mobile Phones,33MB,2017-01-11 10:22:30,12571,165,1.0
+16,,datasets,ajpass/pokemon-data-mining-2020,Pokemon data mining 2020,20KB,2020-07-31 10:48:20,170,7,0.9411765
+18,,datasets,irfanasrullah/groceries,Groceries Market Basket Dataset,168KB,2019-07-16 09:47:30,19860,182,0.8235294
+20,,datasets,danielpanizzo/wine-quality,Wine Quality,108KB,2017-10-29 19:56:48,4933,39,0.7352941
+22,,datasets,mashlyn/online-retail-ii-uci,Online Retail II UCI,15MB,2019-12-02 11:03:36,8820,121,1.0
+24,,datasets,mathchi/online-retail-ii-data-set-from-ml-repository,Online Retail II Data Set from ML Repository,58MB,2021-06-14 07:41:48,3348,87,1.0
+26,,datasets,xvivancos/star-wars-movie-scripts,Star Wars Movie Scripts,158KB,2018-05-07 13:57:15,6437,143,1.0
+28,,datasets,ekrembayar/avatar-the-last-air-bender,Avatar: The Last Airbender,1018KB,2020-08-10 21:30:59,771,67,0.5882353
+30,,datasets,mlg-ulb/creditcardfraud,Credit Card Fraud Detection,66MB,2018-03-23 01:17:27,474350,9676,0.85294116
+32,,datasets,edumagalhaes/quality-prediction-in-a-mining-process,Quality Prediction in a Mining Process,51MB,2017-12-06 21:16:37,10247,328,1.0
+34,,datasets,kushshah95/the-insurance-company-tic-benchmark,The Insurance Company (TIC) Benchmark,262KB,2020-05-27 16:36:41,1470,46,0.88235295
+36,,datasets,mczielinski/bitcoin-historical-data,Bitcoin Historical Data,100MB,2021-04-11 19:41:13,117912,3122,1.0
+38,,datasets,ishandutta/early-stage-diabetes-risk-prediction-dataset,Early Stage Diabetes Risk Prediction Dataset,3KB,2020-09-21 15:37:46,4305,66,0.9411765
+40,,datasets,heeraldedhia/groceries-dataset,Groceries dataset ,257KB,2020-09-17 04:36:08,30975,483,1.0

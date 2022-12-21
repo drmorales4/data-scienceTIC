@@ -1,0 +1,21 @@
+,topic,set,ref,title,author,lastRunTime,totalVotes
+2,variance,kernels,breuker/can-we-improve-by-increasing-variance,Can we improve by increasing variance?,Dominic Breuker,2017-01-01 15:17:02,91
+4,variance,kernels,azminetoushikwasi/mastering-bias-variance-tradeoff,Mastering Bias-Variance Tradeoff ,Azmine Toushik Wasi,2022-11-03 23:43:27,132
+6,variance,kernels,peining/about-the-variance-and-the-cv-result,About the variance and the cv result,Peining,2019-02-01 05:05:06,36
+8,variance,kernels,residentmario/bias-variance-tradeoff,Bias-Variance Tradeoff,Aleksey Bilogur,2017-12-07 01:42:17,11
+10,variance,kernels,fchmiel/low-variance-features-useless,Low variance features - Useless?,FChmiel,2019-05-26 17:41:03,26
+12,variance,kernels,avikumart/pca-principal-component-analysis-variance-plots,[PCA]Principal Component Analysis &variance plots,AvikumarT,2022-11-02 11:05:29,80
+14,variance,kernels,tanmayunhale/feature-selection-variance-threshold,Feature Selection - Variance Threshold,Tanmay Unhale,2021-06-29 07:26:50,18
+16,variance,kernels,arthurtok/interactive-intro-to-dimensionality-reduction,Interactive Intro to Dimensionality Reduction,Anisotropic,2018-09-24 22:53:26,814
+18,variance,kernels,aggarwalrahul/dl-intro-to-nn-minimizing-variance-overfitting,DL-INTRO TO NN- MINIMIZING VARIANCE (OVERFITTING),Rahul Aggarwal,2022-04-24 16:40:51,19
+20,variance,kernels,alexfir/target-encoding-using-variance,Target encoding using variance,Alexander Firsov,2017-11-16 15:55:25,19
+22,variance,kernels,aruchomu/yolo-v3-object-detection-in-tensorflow,Yolo v3 Object Detection in Tensorflow,heartkilla,2019-02-21 11:12:34,701
+24,variance,kernels,vijipai/lesson-5-mean-variance-optimization-of-portfolios,Lesson 5:Mean-Variance Optimization of  Portfolios,Dr G A Vijayalakshmi Pai,2020-07-18 17:23:04,14
+26,variance,kernels,kaanboke/ml-basics-bias-variance-tradeoff,ML Basics - BIAS & VARIANCE TRADEOFF,Kaan BOKE,2021-07-30 09:56:39,50
+28,variance,kernels,kanncaa1/time-series-prediction-tutorial-with-eda,Time Series Prediction Tutorial with EDA,DATAI,2019-12-07 21:16:00,777
+30,variance,kernels,odins0n/fixing-high-variance-overfitting,Fixing High Variance (Overfitting),Sanskar Hasija,2021-08-15 23:24:42,40
+32,variance,kernels,goyalshalini93/car-price-prediction-linear-regression-rfe,Car Price Prediction (Linear Regression - RFE),Shalini Goyal,2019-04-26 09:01:04,601
+34,variance,kernels,fabiendaniel/customer-segmentation,Customer Segmentation,FabienDaniel,2019-03-21 14:19:41,987
+36,variance,kernels,kanncaa1/machine-learning-tutorial-for-beginners,Machine Learning Tutorial for Beginners,DATAI,2018-07-24 14:43:45,2342
+38,variance,kernels,arthurtok/principal-component-analysis-with-kmeans-visuals,Principal Component Analysis with KMeans visuals,Anisotropic,2017-10-04 19:49:23,250
+40,variance,kernels,thebrownviking20/everything-you-can-do-with-a-time-series,Everything you can do with a time series,Siddharth Yadav,2018-08-02 14:42:50,2351

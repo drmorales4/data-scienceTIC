@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,matplotlib,datasets,mielek/python-matplotlib-introduction-dataset,Python Matplotlib Introduction Dataset,1KB,2020-02-12 16:57:40,193,21,0.4117647
+4,matplotlib,datasets,andreshg/countries-iso-codes-continent-flags-url,Countries ISO Codes | Continent | Flags URL,8KB,2021-04-01 12:44:30,614,25,0.9705882
+6,matplotlib,datasets,dhruvildave/github-commit-messages-dataset,GitHub Commit Messages Dataset,903MB,2021-04-21 11:56:07,403,35,1.0
+8,matplotlib,datasets,gemartin/world-bank-data-1960-to-2016,World Bank Data (1960 to 2016),187KB,2018-07-12 06:11:24,5706,103,0.7058824
+10,matplotlib,datasets,kandij/diabetes-dataset,Diabetics prediction using logistic regression,9KB,2019-05-07 05:18:45,14873,162,0.5294118
+12,matplotlib,datasets,abrahamanderson/matplotlib,matplotlib,2MB,2021-12-30 16:58:44,7,2,0.3125
+14,matplotlib,datasets,rajsengo/indian-premier-league-ipl-all-seasons,Indian Premier League (IPL) - All seasons,24MB,2022-06-02 18:46:01,2207,44,0.8235294
+16,matplotlib,datasets,jeanpat/overlapping-chromosomes,Overlapping chromosomes,21MB,2016-10-12 13:07:18,1184,36,0.75
+18,matplotlib,datasets,eliasdabbas/5000-justdoit-tweets-dataset,"""5","000 #JustDoIt! Tweets Dataset""",3MB,2018-09-08 16:32:37,2684,50
+20,matplotlib,datasets,meckdahl/imutils,imutils,26KB,2020-01-17 05:49:26,308,9,0.75
+22,matplotlib,datasets,emirhanai/human-action-detection-artificial-intelligence,Human Action Detection - Artificial Intelligence,147MB,2022-04-22 21:07:24,912,34,1.0
+24,matplotlib,datasets,xodeum/house-pricing-with-advance-regression-techniques,House pricing with advance regression techniques,22KB,2022-06-28 16:13:50,922,29,1.0
+26,matplotlib,datasets,shariful07/personality-classification-type-dataset,Personality classification Type Dataset,1KB,2022-11-23 15:54:12,732,39,0.8235294
+28,matplotlib,datasets,erdemkaraahin/matplotlib-actions,Matplotlib Actions,336B,2021-02-08 18:30:24,7,2,0.29411766
+30,matplotlib,datasets,npscul/plotting-with-python-challenge,Learn matplotlib,7MB,2021-04-18 21:16:51,66,2,0.29411766
+32,matplotlib,datasets,xodeum/future-sales-prediction-by-machine-learning,Future Sales Prediction by Machine Learning,1MB,2022-06-30 17:17:56,632,34,1.0
+34,matplotlib,datasets,emirhanai/cryptocurrency-prediction-artificial-intelligence,Cryptocurrency Prediction Artificial Intelligence,312KB,2022-12-19 08:23:58,657,49,1.0
+36,matplotlib,datasets,aryanmahabhoi/startup-india-eda,Startup_India_EDA,95KB,2022-04-30 07:36:48,124,22,0.7058824
+38,matplotlib,datasets,timoboz/python-data-science-handbook,Python Data Science Handbook,15MB,2021-12-20 07:06:52,3441,448,0.9375
+40,matplotlib,datasets,fmendes/office-supply-sales,Office Supply Sales,738B,2018-04-21 17:40:29,1680,19,0.5882353

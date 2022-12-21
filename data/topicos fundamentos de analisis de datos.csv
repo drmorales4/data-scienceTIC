@@ -1,0 +1,55 @@
+﻿CONCEPT;subconcept
+Data science concepts;Data scientist
+Data science concepts;Big data concepts
+Data science concepts;Data mining concepts
+Data science concepts;Machine learning algorithms
+Data science tools;Google colab
+Data science tools;Jupyter notebook
+Data science tools;Kaggle Notebook
+Data science tools;Github
+Data extraction;Rest API
+Data extraction;Scrapy
+Data extraction;Metadata
+Data storage;Data quality
+Data storage;Data management
+Data manipulation;Csv dataset
+Data manipulation;Json dataset
+Data manipulation;Txt dataset
+Data manipulation;Data types
+Data manipulation;Numerical data
+Data manipulation;Categorical variables
+Data preprocessing;Missing values
+Data preprocessing;Null values
+Data preprocessing;Outliers
+Data preprocessing;Data transformation
+Dimensional reduction;Principal Component Analysis (PCA)
+Exploratory data analysis;Categorical EDA
+Exploratory data analysis;Univariate analysis
+Exploratory data analysis;Multivariate analysis
+Regression;Linear regression
+Regression;Simple linear regression
+Regression;Multiple Linear Regression
+Regression;Nonlinear regression
+Regression;Decision Trees regression
+Regression;Neural network regression
+Diagnotic analysis;Correlation
+Diagnotic analysis;Correspondence analysis
+Descriptive analysis;Measures of Central tendency
+Descriptive analysis;Central tendency
+Descriptive analysis;Central tendency
+Descriptive analysis;Measures of Dispersion
+Descriptive analysis;Variance inflacton factor
+Descriptive analysis;Factor analysis
+Descriptive analysis;Quartile analysis
+Predictive analytics;Decision Trees classification
+Predictive analytics;Neural network classification
+Predictive analytics;Nearest Neighbors
+Prescriptive analytics;Inferential analysis
+Data visualization;R data visualization
+Data visualization;Python data visualization
+Data visualization;Power BI
+Data visualization;Tableau
+Data visualization;matplotlib
+Data visualization;Seaborn
+Data visualization;Bokeh
+Data visualization;Plotly

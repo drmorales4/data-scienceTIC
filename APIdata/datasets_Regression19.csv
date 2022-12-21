@@ -1,0 +1,19 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,andonians/random-linear-regression,Linear Regression,8KB,2017-05-11 20:15:52,44898,466,0.8235294
+4,,datasets,abrambeyer/openintro-possum,Possum Regression,2KB,2021-08-17 01:15:54,3745,46,1.0
+6,,datasets,dragonheir/logistic-regression,Logistic Regression,3KB,2017-12-24 08:11:43,20610,159,0.4117647
+8,,datasets,nkitgupta/jigsaw-regression-based-data,Jigsaw Regression Based Data,3GB,2022-02-05 20:51:56,1281,104,0.88235295
+10,,datasets,tanuprabhu/linear-regression-dataset,Linear Regression Data-set,1KB,2019-06-21 05:57:12,7523,68,1.0
+12,,datasets,maajdl/yeh-concret-data,Revisiting  a Concrete Strength regression,10KB,2018-06-15 20:26:01,5721,108,1.0
+16,,datasets,hellbuoy/car-price-prediction,Car Price Prediction Multiple Linear Regression,18KB,2019-10-15 16:45:27,38861,420,0.7058824
+18,,datasets,fedesoriano/the-boston-houseprice-data,Boston House Prices-Advanced Regression Techniques,12KB,2021-06-01 10:39:10,6829,115,1.0
+22,,datasets,harlfoxem/housesalesprediction,"""House Sales in King CountyUSA""",780KB,2016-08-25 15:52:49,153373,1915,0.7058824
+24,,datasets,heptapod/titanic,Titanic,11KB,2017-05-16 08:14:22,48650,909,0.7058824
+26,,datasets,uciml/red-wine-quality-cortez-et-al-2009,Red Wine Quality,26KB,2017-11-27 23:41:08,161744,2294,0.88235295
+28,,datasets,quantbruce/real-estate-price-prediction,Real estate price prediction,7KB,2018-12-08 09:13:48,41692,343,0.47058824
+30,,datasets,kandij/diabetes-dataset,Diabetics prediction using logistic regression,9KB,2019-05-07 05:18:45,14872,162,0.5294118
+32,,datasets,azeembootwala/titanic,Titanic,12KB,2017-06-05 12:14:37,15226,155,0.8235294
+34,,datasets,ishadss/productivity-prediction-of-garment-employees,Productivity Prediction of Garment Employees ,16KB,2021-04-06 22:42:06,4050,68,0.9705882
+36,,datasets,rhuebner/human-resources-data-set,Human Resources Data Set,17KB,2020-10-19 13:50:53,60107,832,0.8235294
+38,,datasets,uciml/electric-power-consumption-data-set,Household Electric Power Consumption,19MB,2016-08-23 17:02:15,22239,285,0.75
+40,,datasets,karthickveerakumar/salary-data-simple-linear-regression,Salary data - Simple linear regression,378B,2018-01-22 17:09:38,39858,230,0.3529412

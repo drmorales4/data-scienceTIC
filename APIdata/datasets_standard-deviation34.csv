@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,goldenoakresearch/acs-gross-rent-us-statistics,US Gross Rent ACS Statistics,2MB,2017-08-23 15:05:49,1397,53,0.8235294
+4,,datasets,uciml/breast-cancer-wisconsin-data,Breast Cancer Wisconsin (Diagnostic) Data Set,49KB,2016-09-25 10:49:04,253863,2926,0.85294116
+6,,datasets,jakeshbohaju/brain-tumor,Brain Tumor,14MB,2020-07-26 01:52:35,8344,212,0.9411765
+8,,datasets,muratkokludataset/raisin-dataset,Raisin Dataset,112KB,2022-04-03 00:23:16,1881,1457,0.9375
+10,,datasets,shivamb/machine-predictive-maintenance-classification,Machine Predictive Maintenance Classification,137KB,2021-11-06 02:59:26,6704,156,1.0
+12,,datasets,abhinand05/daily-sun-spot-data-1818-to-2019,Daily Sun Spot Data (1818 to 2019),681KB,2019-11-21 17:19:21,1330,45,1.0
+14,,datasets,colearninglounge/predicting-pulsar-starintermediate,Predicting Pulsar Star,790KB,2020-08-26 03:45:48,4033,79,0.8235294
+16,,datasets,valentynsichkar/cifar10-preprocessed,CIFAR10 Preprocessed,1GB,2019-07-13 13:43:11,1171,41,1.0
+18,,datasets,rutuspatel/walmart-dataset-retail,Walmart Dataset (Retail),122KB,2021-10-27 07:03:41,4898,65,0.8235294
+20,,datasets,kartik2112/fraud-detection,Credit Card Transactions Fraud Detection Dataset,202MB,2020-08-05 15:20:55,18134,197,0.85294116
+22,,datasets,fanbyprinciple/iot-device-identification,IOT device identification,511KB,2021-05-22 09:18:29,1023,22,0.9411765
+24,,datasets,epa/epa-historical-air-quality,Historical Air Quality,0B,2019-02-12 00:35:35,0,283,0.7058824
+26,,datasets,tiagotgoz/predictive-useful-life-based-into-telemetry,Predictive Useful Life based into telemetry,4MB,2020-08-06 12:19:15,772,20,1.0
+28,,datasets,maca11/all-pokemon-dataset,All Pokemon Dataset,56KB,2021-10-20 07:04:01,1268,53,0.88235295
+30,,datasets,kkhandekar/global-sea-level-1993-2021,Global Sea Level | 1993 - 2021,22KB,2021-10-29 02:47:14,1693,50,1.0
+32,,datasets,rutuspatel/retail-analysis-with-walmart-sales-data,RETAIL ANALYSIS WITH WALMART SALES DATA,122KB,2021-07-31 09:04:18,2826,29,0.8235294
+34,,datasets,sevgisarac/temperature-change,Temperature change,2MB,2022-01-11 03:04:39,13457,209,1.0
+36,,datasets,goldenoakresearch/us-household-income-stats-geo-locations,US Household Income Statistics,2MB,2018-04-16 18:20:57,12520,229,0.8235294
+38,,datasets,brsdincer/pulsar-classification-for-class-prediction,Pulsar Classification For Class Prediction,771KB,2021-04-04 12:42:47,184,17,1.0
+40,,datasets,dasmehdixtr/human-gait-phase-dataset,Human Gait Phase Dataset,595MB,2019-12-02 13:54:11,964,31,0.88235295

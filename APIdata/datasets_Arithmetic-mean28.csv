@@ -1,0 +1,16 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,epa/epa-historical-air-quality,Historical Air Quality,0B,2019-02-12 00:35:35,0,283,0.7058824
+4,,datasets,fabriciotorquato/eeg-data-from-hands-movement,EEG data from hands movement ,11MB,2019-10-23 11:44:42,1450,30,0.8235294
+6,,datasets,epa/hazardous-air-pollutants,Hazardous Air Pollutants,558MB,2017-06-30 18:46:19,3321,70,0.875
+8,,datasets,suso172/arabic-natural-audio-dataset,Arabic Natural Audio Dataset,560MB,2017-12-01 09:33:54,2671,48,0.7647059
+10,,datasets,epa/air-quality,Air Quality Annual Summary,294MB,2017-06-29 23:22:18,2611,72,0.8235294
+12,,datasets,epa/carbon-monoxide,Carbon Monoxide Daily Summary,519MB,2017-06-30 16:42:04,1955,44,0.875
+14,,datasets,zhaque/dhaka-stock-exchange-broad-historical-data,Dhaka Stock Exchange Broad Historical Data,97KB,2020-09-23 05:39:35,118,3,0.9411765
+16,,datasets,adorigueto/cnc-turning-roughness-forces-and-tool-wear,"""CNC turning: roughnessforces and tool wear""",20KB,2022-05-23 18:41:21,193,9,1.0
+18,,datasets,jeffysonar/co-levels-2000-,CO Levels (2000 - ),49MB,2018-08-02 17:35:02,234,6,0.7058824
+20,,datasets,uciml/human-activity-recognition-with-smartphones,Human Activity Recognition with Smartphones,25MB,2019-11-13 20:04:13,35391,575,0.7058824
+22,,datasets,saurabhshahane/arabic-natural-audio-dataset,Arabic Natural Audio Dataset,538MB,2021-03-27 13:13:11,36,4,0.64705884
+24,,datasets,suresrkumar/hand-sign-language-dataset-with-annotation-in-json,Hand Sign Language DataSet with Annotation in JSON,95MB,2020-02-28 01:55:59,90,2,0.625
+26,,datasets,ujjwal9/o-m-n-i-2,O M N I 2,30MB,2018-03-03 21:50:06,216,6,0.7941176
+28,,datasets,georgesaavedra/logistic-regression,Human Activity with Smartphones Dataset,25MB,2022-03-09 01:33:23,101,6,0.8235294
+30,,datasets,iamtharin/prototypedphysionetdataset,PrototypedPhysioNetDataset,109KB,2022-02-20 15:12:38,2,1,0.11764706

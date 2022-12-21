@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Nearest-Neighbors,datasets,gkalpolukcu/knn-algorithm-dataset,KNN Algorithm Dataset,49KB,2020-07-05 11:06:30,1947,23,0.5294118
+4,Nearest-Neighbors,datasets,joshkyh/glove-twitter,GloVe: Global Vectors for Word Representation,107MB,2017-09-18 22:01:53,803,43,0.875
+6,Nearest-Neighbors,datasets,rahulsah06/machine-learning-for-diabetes-with-python,Machine Learning for Diabetes with Python,9KB,2019-09-20 08:04:12,1626,27,0.5882353
+8,Nearest-Neighbors,datasets,abdallamahgoub/diabetes,Diabetes predication system with KNN algorithm,9KB,2021-03-12 14:44:33,2308,7,0.3529412
+10,Nearest-Neighbors,datasets,ayanzadeh93/color-classification,color classification,161MB,2018-04-20 00:13:09,2374,56,0.875
+12,Nearest-Neighbors,datasets,grac2h5/top-100-closest-to-target-genes-with-features,top 100 closest to target genes with features,3GB,2022-10-30 18:54:33,42,7,0.5294118
+14,Nearest-Neighbors,datasets,kashnitsky/mlcourse,mlcourse.ai,51MB,2018-12-09 16:45:09,35656,1518,0.88235295
+16,Nearest-Neighbors,datasets,sameersmahajan/people-wikipedia-data,People Wikipedia Data,29MB,2017-11-20 11:51:49,3119,23,0.5294118
+18,Nearest-Neighbors,datasets,astronautelvis/kc-house-data,KC_House_Data,812KB,2021-08-14 15:33:21,405,11,1.0
+20,Nearest-Neighbors,datasets,alexeyleshchenko/moscow-apartment-listings,Moscow Apartment Listings w/prices,233KB,2020-11-23 16:59:28,330,8,0.7058824
+22,Nearest-Neighbors,datasets,doesnotcompile/nf-kc-house-data,King-County-Housing-Data-2014-2015,783KB,2022-11-07 10:46:57,16,7,0.9117647
+24,Nearest-Neighbors,datasets,hamzajabbarkhan/sample-dataset-for-k-nearest-neighbors,Sample dataset for K Nearest Neighbors ,5KB,2020-02-27 20:26:07,40,1,0.1875
+26,Nearest-Neighbors,datasets,maksymshkliarevskyi/plantstat-package-statistics-and-automl,PlantStat,135KB,2022-12-18 06:22:41,293,20,0.9375
+28,Nearest-Neighbors,datasets,danielgrijalvas/steven-wilson-analysis,Steven Wilson detector,166KB,2017-11-26 21:46:49,373,36,0.9705882
+30,Nearest-Neighbors,datasets,prashant111/ionosphere,Ionosphere,34KB,2020-03-15 09:36:02,1235,45,0.5294118
+32,Nearest-Neighbors,datasets,grac2h5/top100citeseqdenoisedfeatures,top100-citeseq-denoised-features,92MB,2022-10-30 18:57:11,7,2,0.5882353
+34,Nearest-Neighbors,datasets,prashant111/glass-identification-dataset,Glass Identification Dataset,9KB,2020-03-16 05:56:26,905,21,0.5294118
+36,Nearest-Neighbors,datasets,harshilpatel355/autoirrigationdata,INTELLIGENT IRRIGATION SYSTEM,3KB,2020-06-28 07:58:40,2197,53,0.64705884
+38,Nearest-Neighbors,datasets,aslanahmedov/predict-term-deposit,Predict Term Deposit,575KB,2021-11-29 11:36:06,959,25,1.0
+40,Nearest-Neighbors,datasets,elifince/ml-for-openended-physics-questions-in-turkish,ML for open-ended physics questions in Turkish,41KB,2020-03-04 17:13:34,47,5,0.5294118

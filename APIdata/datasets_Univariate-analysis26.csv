@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Univariate-analysis,datasets,pranavuikey/black-friday-sales-eda,Black Friday Sales EDA,5MB,2022-09-05 10:22:37,1825,39,1.0
+4,Univariate-analysis,datasets,vitthalmadane/ts-temp-1,Time Series Room Temperature Data,100KB,2022-11-21 10:16:26,557,29,1.0
+6,Univariate-analysis,datasets,rishikeshkonapure/black-friday-sales-eda,Black Friday Sales EDA,5MB,2022-10-29 06:29:47,928,31,1.0
+8,Univariate-analysis,datasets,debashis74017/stock-market-data-nifty-100-stocks-5-min-data,Stock Market Data - Nifty 100 stocks (5 min) data,5GB,2022-11-05 22:19:13,163,16,0.88235295
+10,Univariate-analysis,datasets,soumyajitdatta/aluminium-prices2014-2022-for-time-series,Aluminium Prices Dataset for Time Series,34KB,2022-06-24 14:26:40,71,10,0.3529412
+12,Univariate-analysis,datasets,faizunnabi/autism-screening,Autism Screening,7KB,2018-02-12 11:46:18,4886,109,0.75
+14,Univariate-analysis,datasets,abhilashakumari100/supermarket-sales,EDA on Supermarket sales,36KB,2021-08-23 10:16:11,103,2,0.4117647
+16,Univariate-analysis,datasets,abhi1394/help-ngo-dataset,HELP NGO Dataset,1MB,2021-02-28 11:08:05,61,4,0.375
+18,Univariate-analysis,datasets,mukeshmanral/univariate-time-series,Time Series,2KB,2022-02-06 09:33:00,100,6,0.9411765
+20,Univariate-analysis,datasets,soyabshekh/eda-on-airline-data-set-univariate,EDA ON AIRLINE DATA SET (UNIVARIATE),586B,2022-02-12 14:13:35,12,1,0.0625
+22,Univariate-analysis,datasets,rupakroy/lstm-datasets-multivariate-univariate,Air Pollution Forecasting - LSTM Multivariate,444KB,2022-01-20 13:03:03,2401,44,0.9117647
+24,Univariate-analysis,datasets,kapitankolor/brisbane-weather-history-19321-to-21421,Brisbane Weather History (19-3-21 to 21-4-21),14KB,2021-05-25 05:18:28,45,1,0.5882353
+26,Univariate-analysis,datasets,arashnic/learn-time-series-forecasting-from-gold-price,Learn Time Series Forecasting From Gold Price,49KB,2020-11-19 18:52:44,2188,29,1.0
+28,Univariate-analysis,datasets,adrianaabrego/ibmsp-corr,ibmsp-corr,6KB,2022-08-17 15:31:59,7,0,0.6875
+30,Univariate-analysis,datasets,gdeepakreddy/insurance,Insurance,620KB,2022-06-05 12:04:49,97,1,0.5294118
+32,Univariate-analysis,datasets,artemig/time-series-sample-001,time_series_sample_001,54KB,2022-09-09 12:40:20,11,2,0.4117647
+34,Univariate-analysis,datasets,debashis74017/stock-market-data-nifty-50-stocks-1-min-data,Stock Market Data - Nifty 100 Stocks (1 min) data ,24GB,2022-12-08 05:20:53,442,31,0.88235295
+36,Univariate-analysis,datasets,debashis74017/lic-stock-price-data,LIC Stock Price Data,671KB,2022-10-14 21:18:25,87,13,1.0
+38,Univariate-analysis,datasets,vipulgote4/pseudo-periodic-synthetic-time-series,Pseudo Periodic Synthetic Time Series,10MB,2020-08-25 15:09:42,41,6,0.64705884
+40,Univariate-analysis,datasets,gauravkumar15/dtexpl-univariate-analysis,dtexpl_univariate analysis,240KB,2020-07-04 11:26:23,26,1,0.11764706

@@ -1,0 +1,21 @@
+,topic,set,ref,title,author,lastRunTime,totalVotes
+2,data-preprocessing,kernels,nkitgupta/advance-data-preprocessing,Advance Data Preprocessing,Ankit Gupta,2022-04-14 14:28:14,128
+4,data-preprocessing,kernels,faressayah/logistic-regression-data-preprocessing,Logistic Regression & Data Preprocessing,Fares Sayah,2021-02-10 15:11:21,90
+6,data-preprocessing,kernels,agrawaladitya/step-by-step-data-preprocessing-eda,Step-by-step Data Preprocessing & EDA,Aditya Agrawal,2018-08-28 22:30:48,112
+8,data-preprocessing,kernels,mistag/data-preprocessing-with-gwpy,Data Preprocessing with GWPy,Geir Drange,2021-08-05 16:22:03,108
+10,data-preprocessing,kernels,kmader/data-preprocessing-and-unet-segmentation-gpu,Data Preprocessing and UNet Segmentation (GPU),K Scott Mader,2018-04-21 17:05:16,70
+12,data-preprocessing,kernels,rhtsingh/external-data-mlqa-xquad-preprocessing,"""External Data - MLQA"," XQUAD Preprocessing""",torch,2021-09-08 21:33:05
+14,data-preprocessing,kernels,abhishekmamidi/titanic-data-preprocessing-and-visualization,Titanic - Data Preprocessing and Visualization,Abhishekmamidi,2019-12-22 08:49:05,68
+16,data-preprocessing,kernels,vikassingh1996/extensive-data-preprocessing-and-modeling,Extensive Data Preprocessing And Modeling,Vikas Singh,2019-08-20 13:38:34,92
+18,data-preprocessing,kernels,utkarshm25/data-preprocessing-basics,Data Preprocessing Basics,Utkarsh Sharma,2021-03-31 13:20:55,55
+20,data-preprocessing,kernels,fizzbuzz/toxic-data-preprocessing,Toxic Data Preprocessing,Zafar,2018-03-12 15:59:05,40
+22,data-preprocessing,kernels,saurav9786/amex-data-preprocessing-eda-feature-engineering,"""AMEX Data Preprocessing ",EDA," Feature Engineering """,Saurav Anand
+24,data-preprocessing,kernels,saxinou/nlp-01-preprocessing-data,NLP 01 - Preprocessing data,S.Day,2018-01-08 14:23:20,22
+26,data-preprocessing,kernels,anirban7/data-preprocessing-for-beginners,Data preprocessing for Beginners,Anirban Dutta,2019-06-03 05:15:20,27
+28,data-preprocessing,kernels,king9528/data-preprocessing-in-python,Data preprocessing in python,monkeyking,2018-07-09 08:18:17,19
+30,data-preprocessing,kernels,ohseokkim/preprocessing-encoding-categorical-data,[Preprocessing] Encoding Categorical Data,OH SEOK KIM,2021-11-16 10:37:14,55
+32,data-preprocessing,kernels,srivignesh/data-preprocessing-for-house-price-prediction,Data preprocessing for House Price Prediction ,Srivignesh Rajan,2020-07-10 11:30:12,34
+34,data-preprocessing,kernels,vedanth777/telecom-customer-churn-data-preprocessing,Telecom-Customer-Churn-Data-Preprocessing,Vedanth,2021-02-09 10:57:12,34
+36,data-preprocessing,kernels,mahyamahjoob/data-preprocessing,Data Preprocessing,Mahya Mahjoob,2021-12-20 19:35:18,28
+38,data-preprocessing,kernels,ajay1216/practical-guide-on-data-preprocessing-in-python,Practical Guide on Data Preprocessing in Python,Ajay Shewale,2018-09-22 13:53:12,29
+40,data-preprocessing,kernels,bhavikapanara/data-preprocessing-and-analysis,Data Preprocessing and Analysis,Bhavika,2018-08-26 17:41:25,18

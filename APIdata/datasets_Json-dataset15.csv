@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Json-dataset,datasets,rtatman/iris-dataset-json-version,Iris Dataset (JSON Version),1KB,2018-04-06 20:21:31,10453,60,0.75
+4,Json-dataset,datasets,yelp-dataset/yelp-dataset,Yelp Dataset,4GB,2022-03-17 22:59:01,102448,1510,0.75
+6,Json-dataset,datasets,gunnvant/game-of-thrones-srt,Game of Thrones Subtitles,739KB,2018-02-20 10:22:36,45060,192,0.875
+8,Json-dataset,datasets,prathamsharma123/farmers-protest-tweets-dataset-raw-json,Farmers Protest Tweets Dataset (Raw JSON),191MB,2021-03-30 08:28:20,843,18,1.0
+10,Json-dataset,datasets,krsna540/synthea-dataset-jsons-ehr,Synthea Dataset Jsons - EHR,2GB,2021-02-28 12:20:18,269,18,0.75
+12,Json-dataset,datasets,rounakbanik/the-movies-dataset,The Movies Dataset,228MB,2017-11-10 02:40:38,257076,3066,0.8235294
+14,Json-dataset,datasets,stanfordu/stanford-question-answering-dataset,Stanford Question Answering Dataset,9MB,2019-11-17 22:02:23,7123,160,0.75
+16,Json-dataset,datasets,odins0n/herbarium-2022-pandas,Herbarium 2022 Pandas,5MB,2022-02-15 19:48:20,95,34,1.0
+18,Json-dataset,datasets,PromptCloudHQ/toy-products-on-amazon,Toy Products on Amazon,8MB,2017-09-15 19:45:36,9464,132,1.0
+20,Json-dataset,datasets,aditya2803/one-piece-anime,ONE PIECE ANIME,68KB,2021-01-20 13:25:53,879,27,1.0
+22,Json-dataset,datasets,datasnaek/youtube-new,Trending YouTube Video Statistics,201MB,2019-06-03 00:56:47,195070,4814,0.7941176
+24,Json-dataset,datasets,Cornell-University/arxiv,arXiv Dataset,1GB,2022-12-18 00:51:05,20241,987,0.875
+26,Json-dataset,datasets,datasnaek/youtube,Trending YouTube Video Statistics and Comments,56MB,2017-10-25 19:26:15,19783,324,0.7647059
+28,Json-dataset,datasets,zynicide/wine-reviews,Wine Reviews,51MB,2017-11-27 17:08:04,172741,3397,0.7941176
+30,Json-dataset,datasets,rsrishav/youtube-trending-video-dataset,YouTube Trending Video Dataset (updated daily),1GB,2022-12-21 12:34:56,16329,394,1.0
+32,Json-dataset,datasets,freecodecamp/all-posts-public-main-chatroom,"""freeCodeCamp Gitter Chat 2015-2017""",597MB,2019-10-21 10:35:21,1968,76,0.7647059
+34,Json-dataset,datasets,shrutimehta/zomato-restaurants-data,Zomato Restaurants Data,5MB,2018-03-13 04:56:25,45971,626,0.7941176
+36,Json-dataset,datasets,dgunning/json-cache,CORD ResearchPapers Dataset json_cache,306MB,2020-05-15 23:30:02,58,3,0.5
+38,Json-dataset,datasets,paramaggarwal/fashion-product-images-dataset,Fashion Product Images Dataset,23GB,2019-03-14 18:57:43,17313,401,0.5882353
+40,Json-dataset,datasets,bharadwaj6/kindle-reviews,Amazon reviews: Kindle Store Category,525MB,2018-05-22 04:50:16,6205,157,1.0

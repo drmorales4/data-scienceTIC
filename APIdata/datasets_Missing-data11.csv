@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,jmataya/missingmigrants,Missing Migrants Dataset,67KB,2017-06-16 08:56:07,1881,49,0.85294116
+4,,datasets,snocco/missing-migrants-project,Missing Migrants Project,840KB,2022-01-15 13:35:24,5320,150,1.0
+6,,datasets,kumarajarshi/life-expectancy-who,Life Expectancy (WHO),119KB,2018-02-10 16:55:10,80611,913,0.8235294
+8,,datasets,heptapod/titanic,Titanic,11KB,2017-05-16 08:14:22,48650,909,0.7058824
+10,,datasets,aaronschlegel/austin-animal-center-shelter-outcomes-and,Austin Animal Center Shelter Outcomes,3MB,2018-02-16 17:39:55,6488,138,0.85294116
+12,,datasets,ahsen1330/us-police-shootings,US Police Shootings,126KB,2020-07-30 04:23:34,12635,361,0.9705882
+14,,datasets,tmdb/tmdb-movie-metadata,TMDB 5000 Movie Dataset,9MB,2017-09-28 01:09:12,241288,3224,0.8235294
+16,,datasets,uciml/restaurant-data-with-consumer-ratings,Restaurant Data with Consumer Ratings,39KB,2017-09-27 20:46:37,15230,177,0.7352941
+18,,datasets,uciml/electric-power-consumption-data-set,Household Electric Power Consumption,19MB,2016-08-23 17:02:15,22239,285,0.75
+20,,datasets,coplin/traffic,DataSet(Traffic flow),5MB,2018-09-05 12:36:13,4160,60,0.47058824
+22,,datasets,mczielinski/bitcoin-historical-data,Bitcoin Historical Data,100MB,2021-04-11 19:41:13,117912,3122,1.0
+24,,datasets,jamesleslie/titanic-cleaned-data,Titanic: cleaned data,36KB,2018-11-21 11:50:18,5646,61,0.7647059
+26,,datasets,rush4ratio/video-game-sales-with-ratings,Video Game Sales with Ratings,476KB,2016-12-30 15:33:11,59367,943,0.7647059
+28,,datasets,uciml/autompg-dataset,Auto-mpg dataset,6KB,2017-07-02 05:25:54,32462,247,0.85294116
+30,,datasets,arashnic/hr-analytics-job-change-of-data-scientists,HR Analytics: Job Change of Data Scientists,295KB,2020-12-07 00:25:10,42999,1220,1.0
+32,,datasets,sidtwr/videogames-sales-dataset,Video Games Sales Dataset,507KB,2019-05-10 14:08:27,32068,311,0.8235294
+34,,datasets,mariotormo/complete-pokemon-dataset-updated-090420,Complete Pokemon Dataset (Updated 16.04.21),195KB,2021-04-16 06:32:50,6886,153,0.9705882
+36,,datasets,jojoker/singapore-airbnb,Singapore Airbnb,350KB,2019-09-25 22:05:44,8639,115,0.7647059
+38,,datasets,yingwurenjian/chicago-divvy-bicycle-sharing-data,Chicago Divvy Bicycle Sharing Data,629MB,2018-02-26 19:21:31,5877,128,0.7352941
+40,,datasets,devsubhash/flipkart-mobiles-dataset,Flipkart Mobiles Dataset,54KB,2022-03-20 10:46:28,2443,52,1.0

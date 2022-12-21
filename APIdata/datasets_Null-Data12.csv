@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,,datasets,ariyoomotade/netflix-data-cleaning-analysis-and-visualization,"""Netflix Data: CleaningAnalysis and Visualization""",270KB,2022-08-26 09:25:43,9868,190,1.0
+4,,datasets,matheusfreitag/gas-prices-in-brazil,Gas Prices in Brazil,3MB,2022-03-11 18:03:57,15125,374,1.0
+6,,datasets,mayureshkoli/best-universities-in-the-united-kingdom,Best Universities in the United Kingdom,9KB,2022-08-05 05:32:37,1937,41,1.0
+8,,datasets,damienbeneschi/krakow-ta-restaurans-data-raw,TripAdvisor Restaurants Info for 31 Euro-Cities,7MB,2018-02-27 22:10:40,6338,132,0.7352941
+10,,datasets,amandam1/breastcancerdataset,Real Breast Cancer Data,11KB,2021-08-05 17:58:17,4136,68,1.0
+12,,datasets,mukuldeshantri/ecommerce-fashion-dataset,E-commerce Dataset with 30K Products,546KB,2022-07-08 12:28:18,3927,84,1.0
+14,,datasets,huntermcgushion/rrv-weather-data,Weather Data for Recruit Restaurant Competition,11MB,2018-01-04 23:09:56,4557,81,0.7058824
+16,,datasets,cdeotte/rapids,RAPIDS,9GB,2021-06-29 00:53:18,1219,396,0.75
+18,,datasets,devsubhash/flipkart-mobiles-dataset,Flipkart Mobiles Dataset,54KB,2022-03-20 10:46:28,2443,52,1.0
+20,,datasets,sankha1998/tmdb-top-10000-popular-movies-dataset,Popular Movies of IMDb,1MB,2022-12-15 06:18:29,2967,106,1.0
+22,,datasets,solorzano/257k-gaia-dr2-stars,257K Gaia DR2 Stars,55MB,2018-08-13 03:30:11,262,24,0.85294116
+24,,datasets,open-flights/airline-database,Airline Database,120KB,2017-08-29 16:52:34,6142,91,0.8235294
+26,,datasets,aminizahra/tips-dataset,Waiter's Tips Dataset,8KB,2021-08-26 13:49:30,519,41,0.5882353
+28,,datasets,daithibhard/us-electoral-college-votes-per-state-17882020,US Electoral College Votes Per State 1788-2020,9KB,2019-07-09 10:46:10,743,28,1.0
+30,,datasets,hugomathien/soccer,European Soccer Database,33MB,2016-10-23 22:31:38,173033,4064,0.7058824
+32,,datasets,annonyous/null-removed-dataset,Null removed dataset,645KB,2020-11-21 21:12:39,20,5,0.3529412
+34,,datasets,barishasdemir/tweets-about-distance-learning,Tweets about distance learning,21MB,2020-08-20 04:53:04,465,16,0.9411765
+36,,datasets,adnananam/spotify-artist-stats,Spotify Artist Stats,28KB,2022-09-22 03:22:44,2157,44,1.0
+38,,datasets,census/us-population-by-zip-code,US Population By Zip Code,29MB,2017-06-27 17:56:05,10035,124,0.8235294
+40,,datasets,open-flights/airports-train-stations-and-ferry-terminals,"""AirportsTrain Stationsand Ferry Terminals""",437KB,2017-08-28 22:39:31,2508,46,0.85294116
