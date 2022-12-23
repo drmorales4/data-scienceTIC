@@ -1,1 +1,1 @@
-# TIC Implementacion de un prototipo de exploracion y busqueda de Fundamentos de Análisis de Datos
+# TIC - Implementación de un prototipo de exploración y búsqueda de recursos académicos para la asignatura de Fundamentos de análisis de datos
