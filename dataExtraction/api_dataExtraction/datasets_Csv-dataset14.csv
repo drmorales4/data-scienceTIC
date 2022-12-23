@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Csv-dataset,datasets,balaka18/email-spam-classification-dataset-csv,Email Spam Classification Dataset CSV,2MB,2020-03-10 05:08:13,19164,141,0.9117647
+4,Csv-dataset,datasets,harsha547/indian-premier-league-csv-dataset,Indian Premier League CSV dataset,721KB,2016-12-29 23:08:28,18361,143,0.7058824
+6,Csv-dataset,datasets,columbine/imdb-dataset-sentiment-analysis-in-csv-format,IMDB dataset (Sentiment analysis) in CSV format,26MB,2019-11-28 15:44:05,15384,105,1.0
+8,Csv-dataset,datasets,prathamsharma123/farmers-protest-tweets-dataset-csv,Farmers Protest Tweets Dataset (CSV),315MB,2021-11-21 07:04:07,756,27,1.0
+10,Csv-dataset,datasets,oddrationale/mnist-in-csv,MNIST in CSV,15MB,2018-05-19 02:24:20,88962,598,0.8235294
+12,Csv-dataset,datasets,nipunarora8/age-gender-and-ethnicity-face-data-csv,"""AGE GENDER AND ETHNICITY (FACE DATA) CSV""",63MB,2020-09-02 13:46:38,13491,260,1.0
+14,Csv-dataset,datasets,akash14/friendship-datasettoddlerteenadults-image-csv,"""Friendship Dataset(Toddler",Teen,"Adults Image) csv""",51MB,2020-09-16 11:20:19,189
+16,Csv-dataset,datasets,jameslko/gun-violence-data,Gun Violence Data,34MB,2018-04-15 06:18:09,35798,895,0.85294116
+18,Csv-dataset,datasets,fivethirtyeight/uber-pickups-in-new-york-city,Uber Pickups in New York City,109MB,2019-11-13 19:52:18,40181,578,0.7647059
+20,Csv-dataset,datasets,patrickb1912/ipl-complete-dataset-20082020,IPL Complete Dataset (2008-2020),1MB,2020-11-23 06:53:37,48493,557,0.9705882
+22,Csv-dataset,datasets,akshaydattatraykhare/diabetes-dataset,Diabetes Dataset,9KB,2022-10-06 08:55:25,24651,598,1.0
+24,Csv-dataset,datasets,andonians/random-linear-regression,Linear Regression,8KB,2017-05-11 20:15:52,44945,466,0.8235294
+26,Csv-dataset,datasets,dschettler8845/hpa-train-data-with-additional-metadata,HPA - Train Data With Additional Metadata ,860MB,2021-03-01 14:21:24,115,19,1.0
+28,Csv-dataset,datasets,zalando-research/fashionmnist,Fashion MNIST,69MB,2017-12-07 00:54:20,138267,2341,0.85294116
+30,Csv-dataset,datasets,brendan45774/test-file,Titanic dataset,11KB,2021-12-02 16:11:42,40714,428,1.0
+32,Csv-dataset,datasets,kaggle/sf-salaries,SF Salaries,11MB,2019-12-05 23:30:07,59948,742,0.7058824
+34,Csv-dataset,datasets,borismarjanovic/price-volume-data-for-all-us-stocks-etfs,Huge Stock Market Dataset,492MB,2017-11-16 14:53:29,93543,3903,0.75
+36,Csv-dataset,datasets,fabriziocominetti/imdb-data,IMDb data csv,145MB,2021-12-27 17:09:18,801,21,0.9411765
+38,Csv-dataset,datasets,carlosparadis/fires-from-space-australia-and-new-zeland,Fires from Space: Australia,20MB,2020-01-12 06:52:03,7995,217,1.0
+40,Csv-dataset,datasets,paultimothymooney/blood-cells,Blood Cell Images,108MB,2018-04-21 21:06:13,31152,757,0.7058824

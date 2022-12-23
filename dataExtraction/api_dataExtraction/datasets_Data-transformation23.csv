@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Data-transformation,datasets,uciml/glass,Glass Classification,3KB,2017-01-27 17:27:48,28712,303,0.8235294
+4,Data-transformation,datasets,mlg-ulb/creditcardfraud,Credit Card Fraud Detection,66MB,2018-03-23 01:17:27,474740,9682,0.85294116
+6,Data-transformation,datasets,xvivancos/barcelona-data-sets,Barcelona data sets,1MB,2020-02-15 23:29:29,15821,346,1.0
+8,Data-transformation,datasets,teertha/ushealthinsurancedataset,US Health Insurance Dataset,16KB,2020-02-16 04:43:53,7625,79,0.9411765
+10,Data-transformation,datasets,caesarmario/application-data,Credit Card Approval Prediction (Cleaned Version),296KB,2022-03-07 07:02:31,1649,50,1.0
+12,Data-transformation,datasets,harrywang/housing,California Housing Data (1990),400KB,2018-05-10 15:56:31,11768,138,1.0
+14,Data-transformation,datasets,soumik11/table-format-interactive-data-visualisation,Table Format: Data Transformation,8KB,2020-12-13 15:08:38,10,3,0.23529412
+16,Data-transformation,datasets,vetrirah/ml-iot,Time Series in IOT (Internet of Things),364KB,2020-08-13 15:45:34,1441,35,1.0
+18,Data-transformation,datasets,gpreda/life-expectancy-in-europe-by-age-and-sex,Life Expectancy in Europe by Age and Sex,4MB,2022-08-12 15:28:01,869,32,1.0
+20,Data-transformation,datasets,shayannaveed/credit-card-fraud-detection,Credit Card Fraud Detection,66MB,2019-12-24 08:07:24,1482,26,0.88235295
+22,Data-transformation,datasets,toponowicz/spoken-language-identification,Spoken Language Identification,15GB,2018-07-05 16:32:37,2135,58,0.6875
+24,Data-transformation,datasets,whenamancodes/fraud-detection,Fraud Detection,66MB,2022-09-12 11:54:40,2629,56,1.0
+26,Data-transformation,datasets,fabriciotorquato/eeg-data-from-hands-movement,EEG data from hands movement ,11MB,2019-10-23 11:44:42,1454,30,0.8235294
+28,Data-transformation,datasets,chitrakumari25/smart-agricultural-production-optimizing-engine,Smart_Agricultural Production Optimizing Engine,64KB,2022-04-15 19:44:32,964,24,1.0
+30,Data-transformation,datasets,jbouv27/eeg,EEG Analysis,4MB,2019-11-18 01:13:33,2211,43,0.7647059
+32,Data-transformation,datasets,cbhavik/football-transfers-from-199293-to-202122-seasons,Football Transfers from 1992/93 to 2021/22 seasons,3MB,2022-09-04 12:43:50,512,23,0.9117647
+34,Data-transformation,datasets,alfrandom/protein-secondary-structure,Protein Secondary Structure,39MB,2018-06-06 22:11:04,1901,96,0.8235294
+36,Data-transformation,datasets,mathurinache/augly-facebook-research,AugLy Facebook Research,83MB,2021-12-06 13:14:27,32,14,1.0
+38,Data-transformation,datasets,gpreda/daily-consumption-of-fruit-vegetables-in-europe,Daily consumption of fruit & vegetables in Europe,320KB,2021-12-12 11:00:48,617,35,1.0
+40,Data-transformation,datasets,gpreda/human-resources-in-science-and-technology,Human Resources in Science and Technology,1MB,2021-11-28 16:29:48,390,23,1.0

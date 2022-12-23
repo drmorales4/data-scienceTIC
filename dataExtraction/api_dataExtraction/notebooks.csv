@@ -1,0 +1,561 @@
+,topic,set,ref,title,author,lastRunTime,totalVotes
+2,Data-scientist,kernels,hiteshp/head-start-for-data-scientist,Head Start for Data Scientist,Hitesh palamada,2018-09-02 18:36:19,1091
+4,Data-scientist,kernels,jackcook/how-to-become-a-data-scientist,How to Become a Data Scientist,Jack Cook,2017-11-20 20:33:34,301
+6,Data-scientist,kernels,pedrodematos/titanic-a-complete-approach-for-data-scientists,Titanic: A complete approach for Data Scientists,Pedro Gonçalves,2021-06-01 16:16:47,508
+2,Big-data-concepts,kernels,kanncaa1/deep-learning-tutorial-for-beginners,Deep Learning Tutorial for Beginners,DATAI,2019-05-25 14:42:24,2312
+4,Big-data-concepts,kernels,jiashenliu/introduction-to-financial-concepts-and-data,Introduction to financial concepts and data,Jiashen Liu,2021-07-01 09:52:48,936
+6,Big-data-concepts,kernels,rtatman/welcome-to-data-science-in-r,Welcome to Data Science in R,Rachael Tatman,2018-04-11 21:56:06,406
+8,Big-data-concepts,kernels,shivamb/data-science-glossary-on-kaggle,Data Science Glossary on Kaggle,Shivam Bansal,2018-12-10 09:47:14,2141
+10,Big-data-concepts,kernels,arthurtok/interactive-intro-to-dimensionality-reduction,Interactive Intro to Dimensionality Reduction,Anisotropic,2018-09-24 22:53:26,814
+12,Big-data-concepts,kernels,rtatman/data-cleaning-challenge-parsing-dates,Data Cleaning Challenge: Parsing Dates,Rachael Tatman,2018-03-30 21:17:59,252
+14,Big-data-concepts,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+16,Big-data-concepts,kernels,pavansanagapati/a-simple-cnn-model-beginner-guide,A Simple CNN Model Beginner Guide !!!!!!,Pavan Sanagapati,2020-06-08 15:08:17,299
+18,Big-data-concepts,kernels,pierremegret/gensim-word2vec-tutorial,Gensim Word2Vec Tutorial,Pierre Megret,2018-10-21 01:14:06,523
+20,Big-data-concepts,kernels,ash316/novice-to-grandmaster,Novice to Grandmaster,Ashwini Swain,2018-03-07 17:18:09,788
+22,Big-data-concepts,kernels,arjanso/reinforcement-learning-chess-1-policy-iteration,Reinforcement Learning Chess 1: Policy Iteration,ArjanGroen,2020-01-04 09:54:07,70
+24,Big-data-concepts,kernels,hiteshp/head-start-for-data-scientist,Head Start for Data Scientist,Hitesh palamada,2018-09-02 18:36:19,1091
+26,Big-data-concepts,kernels,tanulsingh077/end-to-end-object-detection-with-transformers-detr,End to End Object Detection with Transformers:DETR,Mr_KnowNothing,2020-07-05 08:37:33,422
+28,Big-data-concepts,kernels,niklasdonges/end-to-end-project-with-python,End to End Project with Python,Niklas Donges,2019-02-17 12:06:23,397
+30,Big-data-concepts,kernels,janiobachmann/patient-charges-clustering-and-regression,Patient Charges || Clustering and Regression,Janio Martinez Bachmann,2019-01-19 12:59:29,312
+2,Data-mining-concepts,kernels,xvivancos/market-basket-analysis,Market Basket Analysis ,Xavier,2022-12-04 12:55:54,612
+4,Data-mining-concepts,kernels,jiashenliu/introduction-to-financial-concepts-and-data,Introduction to financial concepts and data,Jiashen Liu,2021-07-01 09:52:48,936
+6,Data-mining-concepts,kernels,shivamb/data-science-glossary-on-kaggle,Data Science Glossary on Kaggle,Shivam Bansal,2018-12-10 09:47:14,2141
+8,Data-mining-concepts,kernels,mgmarques/customer-segmentation-and-market-basket-analysis,Customer Segmentation and Market Basket Analysis,Marcelo Marques,2018-11-27 23:07:03,117
+10,Data-mining-concepts,kernels,pierremegret/gensim-word2vec-tutorial,Gensim Word2Vec Tutorial,Pierre Megret,2018-10-21 01:14:06,523
+12,Data-mining-concepts,kernels,hiteshp/head-start-for-data-scientist,Head Start for Data Scientist,Hitesh palamada,2018-09-02 18:36:19,1091
+14,Data-mining-concepts,kernels,evrenermis/association-rule-based-learning-explained,Association Rule Based Learning Explained,Evren Ermis,2020-06-28 20:11:16,35
+16,Data-mining-concepts,kernels,prashant111/bagging-vs-boosting,Bagging vs Boosting,Prashant Banerjee,2020-06-30 13:14:30,222
+18,Data-mining-concepts,kernels,arunkumarramanan/awesome-ds-for-beginners-with-titanic-exploration,Awesome DS for Beginners with Titanic Exploration,Arunkumar Venkataramanan,2019-02-21 13:30:18,46
+20,Data-mining-concepts,kernels,headsortails/personalised-medicine-eda-with-tidy-r,Personalised Medicine - EDA with tidy R,Heads or Tails,2019-01-07 17:06:03,314
+22,Data-mining-concepts,kernels,edumagalhaes/exploratory-analyses-of-industrial-labor-accidents,Exploratory Analyses of Industrial Labor Accidents,EduardoMagalhãesOliveira,2018-04-12 16:54:36,18
+24,Data-mining-concepts,kernels,arunkumarramanan/data-science-python-fuel-efficiency-prediction,Data Science - Python: Fuel Efficiency Prediction,Arunkumar Venkataramanan,2019-02-23 21:35:07,85
+26,Data-mining-concepts,kernels,gpreda/explore-king-james-bible-books,Explore King James Bible Books,Gabriel Preda,2019-02-10 00:29:05,60
+28,Data-mining-concepts,kernels,arunkumarramanan/awesome-ml-frameworks-and-mnist-classification,Awesome ML Frameworks and MNIST Classification,Arunkumar Venkataramanan,2019-02-21 13:25:10,63
+30,Data-mining-concepts,kernels,arunkumarramanan/awesome-deep-learning-with-cnn-mnist-classifier,Awesome Deep Learning with CNN MNIST Classifier,Arunkumar Venkataramanan,2019-02-23 17:49:58,179
+2,Machine-learning-algorithms,kernels,milan400/machine-learning-algorithms-from-scratch,Machine Learning Algorithms from Scratch,milan,2022-06-30 14:17:01,103
+4,Machine-learning-algorithms,kernels,harunshimanto/machine-learning-algorithms-for-epileptic-seizures,Machine Learning Algorithms for Epileptic Seizures,Harun-Ur-Rashid,2018-10-22 20:52:53,54
+2,Google-colab,kernels,naim99/skin-cancer-segmentation-google-colab,skin cancer segmentation : google colab,Naim Mhedhbi,2020-09-26 09:02:02,30
+4,Google-colab,kernels,gopidurgaprasad/stater-pytorch-tpu-google-colab,Stater Pytorch TPU Google Colab,Gopi Durgaprasad,2020-03-27 14:47:55,26
+6,Google-colab,kernels,kool777/ultimate-google-colab-training-batch-size-64,Ultimate Google Colab Training [batch size 64],Kuldeep Singh Chouhan,2020-10-26 09:50:34,43
+8,Google-colab,kernels,ultralytics/yolov5,YOLOv5,Glenn Jocher,2022-11-22 19:40:14,278
+10,Google-colab,kernels,code1110/how-to-submit-from-google-colab,How to submit from Google Colab,katsu1110,2019-06-21 22:36:16,33
+12,Google-colab,kernels,motono0223/guie-clip-tensorflow-train-example,guie_CLIP_TensorFlow_train_example,motono0223,2022-08-25 01:35:57,167
+14,Google-colab,kernels,jhoward/jupyter-notebook-101,Jupyter Notebook 101,Jeremy Howard,2022-04-24 20:36:56,940
+16,Google-colab,kernels,columbia2131/ubiquant-inference-google-colaboratory-training,[Ubiquant] Inference: Google Colaboratory Training,colum2131,2022-01-21 11:00:04,30
+18,Google-colab,kernels,slavikonnikov/lightgbm-gpu-baseline-model-for-google-colab,LightGBM GPU baseline model for Google Colab,Slava Konnikov,2020-06-26 19:57:23,17
+20,Google-colab,kernels,nhkhang/download-dataset-to-google-colab,Download dataset to Google Colab,Khang Nguyen,2020-08-08 11:49:28,8
+22,Google-colab,kernels,reubenschmidt/how-to-use-google-colab-for-extra-tpu-gpu,How to Use Google Colab for Extra TPU/GPU,Reuben Schmidt,2021-01-13 11:05:23,30
+24,Google-colab,kernels,faisalalsrheed/kaggle-code-snippets-for-google-colab,Kaggle Code Snippets for Google Colab ,Faisal Alsrheed,2021-12-22 03:18:28,8
+26,Google-colab,kernels,sergeykalutsky/introducing-bert-with-tensorflow,Introducing BERT with Tensorflow,Sergey Kalutsky,2018-11-13 14:57:10,117
+28,Google-colab,kernels,shonenkov/tpu-training-super-fast-xlmroberta,[TPU-Training] Super Fast XLMRoberta,Alex Shonenkov,2020-05-04 19:54:32,217
+30,Google-colab,kernels,xhlulu/intro-to-tf-hub-for-object-detection,Intro to TF Hub for Object Detection,xhlulu,2019-07-30 20:57:19,237
+32,Google-colab,kernels,robikscube/a-tale-of-4-kaggler-types-by-ide-use-2018-survey,A Tale of 4 Kaggler Types by IDE use [2018 Survey],Rob Mulla,2018-12-03 23:58:54,216
+34,Google-colab,kernels,paultimothymooney/how-to-get-started-with-the-earth-engine-data,How to get started with the Earth Engine data,Paul Mooney,2020-07-14 15:14:53,114
+2,Jupyter-notebook,kernels,jhoward/jupyter-notebook-101,Jupyter Notebook 101,Jeremy Howard,2022-04-24 20:36:56,940
+4,Jupyter-notebook,kernels,marcovasquez/useful-html-for-jupyter-notebook,Useful HTML for Jupyter Notebook,Marco Vasquez E,2020-05-15 17:53:44,110
+6,Jupyter-notebook,kernels,stonet2000/lux-ai-season-1-jupyter-notebook-tutorial,Lux AI Season 1 Jupyter Notebook Tutorial,Stone Tao,2021-09-05 22:32:47,141
+8,Jupyter-notebook,kernels,tientd95/jupyter-notebook-tricks,Jupyter Notebook Tricks,Hng,2020-08-25 05:15:27,120
+10,Jupyter-notebook,kernels,sirivellamadhu/keyboard-shortcuts-for-jupyter-notebook,Keyboard Shortcuts for jupyter notebook,sirivella madhu,2018-04-07 10:33:30,109
+12,Jupyter-notebook,kernels,stonet2000/lux-ai-season-1-jupyter-notebook-quickstart,Lux AI Season 1 Jupyter Notebook Quickstart,Stone Tao,2021-09-05 22:33:17,55
+14,Jupyter-notebook,kernels,cjansen/jupyter-notebook,Jupyter Notebook,Charles Jansen,2018-08-01 21:20:18,14
+16,Jupyter-notebook,kernels,stonet2000/lux-ai-season-2-jupyter-notebook-tutorial,Lux AI Season 2 Jupyter Notebook Tutorial,Stone Tao,2022-12-09 19:14:00,45
+18,Jupyter-notebook,kernels,benhamner/python-data-visualizations,Python Data Visualizations,Ben Hamner,2017-08-29 15:54:22,1383
+20,Jupyter-notebook,kernels,benhamner/exploring-jupyter-notebook-survey-data,Exploring Jupyter Notebook Survey Data,Ben Hamner,2016-01-22 19:31:27,10
+22,Jupyter-notebook,kernels,serg1974/jupyter-notebook,jupyter notebook,SergCha,2017-11-28 09:01:34,3
+24,Jupyter-notebook,kernels,parulpandey/10-simple-hacks-to-speed-up-your-data-analysis,10 Simple hacks to speed up your Data Analysis ,Parul Pandey,2020-02-11 04:32:49,932
+26,Jupyter-notebook,kernels,alexisbcook/hello-seaborn,"""Hello Seaborn""",Alexis Cook,2022-06-09 00:35:16,734
+28,Jupyter-notebook,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+30,Jupyter-notebook,kernels,kashnitsky/topic-1-exploratory-data-analysis-with-pandas,Topic 1. Exploratory Data Analysis with Pandas,Yury Kashnitsky,2021-05-07 08:35:46,873
+32,Jupyter-notebook,kernels,robikscube/a-tale-of-4-kaggler-types-by-ide-use-2018-survey,A Tale of 4 Kaggler Types by IDE use [2018 Survey],Rob Mulla,2018-12-03 23:58:54,216
+34,Jupyter-notebook,kernels,rtatman/active-learning-with-notebooks-jupytercon,Active learning with notebooks @Jupytercon,Rachael Tatman,2018-08-20 22:14:08,12
+36,Jupyter-notebook,kernels,vishnu1183/reporting-using-markdown-in-jupyter-notebook,Reporting Using Markdown in Jupyter Notebook,Vishnu Prakash Singh,2020-12-11 02:16:23,8
+38,Jupyter-notebook,kernels,stefanjaro/libpostal-windows-and-jupyter-notebook,"""Libpostal Windows and Jupyter Notebook""",Stefan Jaro,2019-04-14 14:56:34,3
+2,Kaggle-Notebook,kernels,mpwolke/kaggle-notebook,Kaggle Notebook,Marília Prata,2020-02-07 16:04:35,24
+4,Kaggle-Notebook,kernels,howoojang/first-kaggle-notebook-following-ts-tutorial,First kaggle notebook. Following TS tutorial,Howoo Jang,2021-10-13 03:14:22,94
+6,Kaggle-Notebook,kernels,ahmedshahriarsakib/streamlit-app-on-kaggle-notebook,Streamlit App On Kaggle Notebook,Ahmed Shahriar Sakib,2022-09-10 00:16:28,64
+8,Kaggle-Notebook,kernels,its7171/how-to-use-arnie-on-kaggle-notebook,How to Use ARNIE on Kaggle Notebook,tito,2020-09-19 12:06:38,105
+10,Kaggle-Notebook,kernels,coldfir4/tacotron-2-training-kaggle-notebook,Tacotron 2 Training (Kaggle Notebook),Michael Williams,2021-09-26 20:22:18,7
+12,Kaggle-Notebook,kernels,jhoward/using-nbdev-export-in-a-kaggle-notebook,Using nbdev export in a Kaggle notebook,Jeremy Howard,2022-08-01 05:26:02,58
+14,Kaggle-Notebook,kernels,bhargavs1/first-kaggle-notebook,First Kaggle notebook,Bhargav S,2021-12-06 07:38:13,19
+16,Kaggle-Notebook,kernels,spidermandance/how-to-use-selenium-with-kaggle-notebook,How to use selenium with kaggle notebook,Takayoshi Makabe,2022-01-19 05:31:33,20
+18,Kaggle-Notebook,kernels,frsanchez/download-kaggle-files-from-notebook,Download kaggle files from notebook,F.J. Sanchez,2020-01-16 00:13:53,14
+20,Kaggle-Notebook,kernels,carlmcbrideellis/a-selection-of-my-kaggle-notebooks,A selection of my kaggle notebooks,Carl McBride Ellis,2022-12-15 05:37:05,88
+22,Kaggle-Notebook,kernels,gauravduttakiit/how-to-integrate-tableau-with-kaggle-notebook,How to integrate Tableau with Kaggle Notebook   ,Gaurav Dutta,2020-09-27 15:14:28,26
+24,Kaggle-Notebook,kernels,kihei171/my-first-kaggle-notebook,My First Kaggle Notebook,kihei,2022-07-18 04:19:08,19
+26,Kaggle-Notebook,kernels,paultimothymooney/starter-notebook-for-end-als-kaggle-challenge,Starter Notebook for END ALS (Kaggle Challenge),Paul Mooney,2021-03-17 21:13:29,17
+28,Kaggle-Notebook,kernels,alexisbcook/titanic-tutorial,Titanic Tutorial,Alexis Cook,2022-06-24 00:25:16,8267
+30,Kaggle-Notebook,kernels,awesomehidingspot/my-first-kaggle-nlp-notebook,My first Kaggle NLP Notebook,Manfred Michael,2020-09-10 05:30:41,11
+32,Kaggle-Notebook,kernels,ksamant/tps-december-first-notebook-on-kaggle-95-307,TPS December -first notebook on kaggle(95.307%) ,NOOB,2021-12-31 09:39:05,3
+34,Kaggle-Notebook,kernels,ahmedshahriarsakib/fastapi-on-kaggle-notebook-ngrok-postman,FastAPI On Kaggle Notebook (Ngrok+Postman),Ahmed Shahriar Sakib,2022-08-11 17:06:34,33
+36,Kaggle-Notebook,kernels,javiersastre/grapenlp-grammar-engine-in-a-kaggle-notebook,GrapeNLP grammar engine in a Kaggle notebook,Javier Sastre,2020-11-08 10:26:32,6
+38,Kaggle-Notebook,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+40,Kaggle-Notebook,kernels,arthurtok/introduction-to-ensembling-stacking-in-python,Introduction to Ensembling/Stacking in Python,Anisotropic,2018-06-16 14:41:15,5663
+2,Github,kernels,mrisdal/safely-analyzing-github-projects-popular-licenses,Safely Analyzing GitHub Projects: Popular Licenses,Meg Risdal,2018-02-06 19:31:43,100
+4,Github,kernels,poonaml/analyzing-3-million-github-repos-using-bigquery,Analyzing 3 Million Github Repos using BigQuery ,Poonam Ligade,2018-02-28 05:33:35,74
+6,Github,kernels,mrisdal/github-commit-messages,GitHub commit messages,Meg Risdal,2018-02-02 06:57:41,24
+8,Github,kernels,shivamb/github-acquired-exploring-the-past-acquisitions,Github Acquired! Exploring the Past Acquisitions !,Shivam Bansal,2018-06-18 19:32:10,64
+10,Github,kernels,tsalitzion/github-repo-analysis,GitHub Repo Analysis,VarunBhatia,2017-07-08 05:58:02,18
+12,Github,kernels,padhmam/analysing-popular-repositories-on-github,Analysing popular repositories on GitHub,Padhma Muniraj,2022-02-02 19:57:41,41
+14,Github,kernels,jaimevalero/github-reccomendation-engine,Github reccomendation engine,Jaime Valero,2020-07-12 06:42:34,13
+16,Github,kernels,ashishpatel26/useful-deep-learning-resources-from-github,Useful Deep Learning Resources from Github,NowYSM,2018-10-04 11:05:55,26
+18,Github,kernels,indrajitdsc/github-bugs-prediction-using-bert-model,GitHub Bugs Prediction using BERT Model,IndrajitSingh,2021-02-17 04:19:11,20
+20,Github,kernels,ravishah1/understanding-the-indoor-loc-github-data-eda,Understanding the Indoor Loc GitHub & Data + EDA,Ravi Shah,2021-04-10 03:36:46,38
+22,Github,kernels,ultralytics/yolov5,YOLOv5,Glenn Jocher,2022-11-22 19:40:14,278
+24,Github,kernels,vatsalparsaniya/github-analysis-2020-eda,GitHub analysis 2020 EDA,Vatsal Parsaniya,2020-05-07 09:04:24,13
+26,Github,kernels,ashishpatel26/useful-data-science-notebooks-from-github,Useful Data Science Notebooks From Github,NowYSM,2018-10-04 05:46:29,19
+28,Github,kernels,dhruvildave/starter-github-commit-messages,Starter: GitHub Commit Messages,Dhruvil Dave,2022-04-28 20:00:14,25
+2,Rest-API,kernels,rtatman/careercon-intro-to-apis,CareerCon: Intro to APIs,Rachael Tatman,2019-04-18 04:43:42,240
+4,Rest-API,kernels,yassineghouzam/introduction-to-cnn-keras-0-997-top-6,Introduction to CNN Keras - 0.997 (top 6%),Yassine Ghouzam,2017-08-18 01:42:23,6458
+6,Rest-API,kernels,nonserial/covid19-prediction-with-restcountries-eu-api-data,COVID19: prediction with restcountries.eu API data,Nonserial,2020-03-25 20:54:04,21
+8,Rest-API,kernels,rohanrao/tutorial-on-reading-large-datasets,Tutorial on reading large datasets,Vopani,2020-12-14 17:13:08,1371
+10,Rest-API,kernels,dansbecker/order-by,Order By,DanB,2021-11-09 00:03:36,225
+12,Rest-API,kernels,rtatman/sql-scavenger-hunt-handbook,SQL Scavenger Hunt Handbook,Rachael Tatman,2018-02-21 00:54:05,471
+14,Rest-API,kernels,dansbecker/as-with,As & With,DanB,2021-11-09 00:03:47,220
+16,Rest-API,kernels,sohier/beyond-queries-exploring-the-bigquery-api,Beyond Queries: Exploring the BigQuery API,Sohier Dane,2018-02-15 20:20:37,111
+18,Rest-API,kernels,residentmario/univariate-plotting-with-pandas,Univariate plotting with pandas,Aleksey Bilogur,2018-09-19 21:30:13,624
+20,Rest-API,kernels,ndrewgele/visualizing-pok-mon-stats-with-seaborn,Visualizing Pokémon Stats with Seaborn,Andrew Gelé,2016-08-30 18:29:25,221
+22,Rest-API,kernels,xvivancos/tutorial-getting-data-from-twitter,Tutorial: Getting Data from Twitter,Xavier,2019-12-01 14:18:29,125
+24,Rest-API,kernels,chumajin/easy-to-understand-the-competition,Easy to understand the competition,chumajin,2022-04-27 11:16:40,516
+26,Rest-API,kernels,artgor/quick-and-dirty-regression,Quick and dirty regression,Andrew Lukyanenko,2019-11-21 15:10:59,627
+28,Rest-API,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+30,Rest-API,kernels,elcaiseri/mnist-simple-cnn-keras-accuracy-0-99-top-1,MNIST: Simple CNN keras (Accuracy : 0.99)=>Top 1%,Kassem,2022-03-20 12:10:49,184
+32,Rest-API,kernels,init27/fastai-v3-lesson-2,FastAI (v3): Lesson 2,Sanyam Bhutani,2019-02-06 05:38:41,154
+34,Rest-API,kernels,jagangupta/time-series-basics-exploring-traditional-ts,Time series Basics : Exploring traditional TS ,Jagan,2018-03-02 18:21:54,1776
+36,Rest-API,kernels,rtatman/careercon-making-an-app-from-your-modeling-code,CareerCon: Making an app from your modeling code,Rachael Tatman,2019-04-18 04:35:44,86
+38,Rest-API,kernels,amadeus1996/fruits-360-transfer-learning-using-keras,Fruits-360 - Transfer Learning using Keras,IS,2018-06-08 06:04:35,79
+40,Rest-API,kernels,maheshdadhich/strength-of-visualization-python-visuals-tutorial,Strength of visualization-python visuals tutorial,BuryBuryZymon,2017-09-17 13:33:16,597
+2,Data-quality,kernels,madhurisivalenka/basic-machine-learning-with-red-wine-quality-data,Basic Machine Learning with Red Wine Quality data,Madhuri Sivalenka,2018-03-04 04:29:29,131
+4,Data-quality,kernels,taha07/wine-quality-prediction-data-analysis,Wine Quality Prediction & Data Analysis ,Taha07,2020-06-28 05:26:57,36
+6,Data-quality,kernels,kanncaa1/water-quality-explanatory-data-analysis,Water Quality Explanatory Data Analysis,DATAI,2021-07-15 09:43:45,32
+8,Data-quality,kernels,vbmokin/datasets-for-river-water-quality-prediction,Datasets for river water quality prediction,Vitalii Mokin,2021-01-27 22:39:02,73
+10,Data-quality,kernels,dansbecker/model-validation,Model Validation,DanB,2021-11-09 00:00:51,2656
+12,Data-quality,kernels,georgyzubkov/wine-quality-exploratory-data-analysis-ml,Wine quality. Exploratory data analysis+ML.,Georgy Zubkov,2022-08-16 11:05:12,96
+14,Data-quality,kernels,digvijaysingh16/k-mean-clustering-for-wine-quality-data,K-Mean clustering for Wine Quality Data,Mr D,2018-07-04 04:13:39,31
+16,Data-quality,kernels,nikunjmalpani/wine-quality-prediction-imbalanced-data,Wine Quality Prediction | Imbalanced Data,Nikunj Malpani,2022-03-02 23:43:25,38
+18,Data-quality,kernels,devisangeetha/data-analysis-on-water-quality,Data Analysis on water Quality,DSangeetha,2017-06-28 03:04:46,17
+20,Data-quality,kernels,vishalyo990/prediction-of-quality-of-wine,Prediction of quality of Wine,Vishal Kumar,2018-01-19 14:35:37,856
+22,Data-quality,kernels,erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda,"""House prices: Lasso XGBoost and a detailed EDA""",Erik Bruin,2018-05-10 06:33:09,1477
+24,Data-quality,kernels,ishanvardhan/india-air-quality-data-cleaning-and-analysis,India Air quality: Data cleaning and Analysis,Ishan Vardhan Mahajan,2018-10-02 07:05:02,20
+26,Data-quality,kernels,dansbecker/handling-missing-values,Handling Missing Values,DanB,2019-02-26 02:31:25,1330
+28,Data-quality,kernels,mahnoorshahidshakir/data-quality-assessment-for-an-organization,Data Quality Assessment for an Organization,Mahnoor Shahid,2020-08-30 11:59:59,21
+30,Data-quality,kernels,inmine/novelai-with-webui-stable-diffusion-version,NovelAI with webUI(Stable Diffusion version),inmine,2022-12-22 12:49:36,1445
+32,Data-quality,kernels,ashwathbalaji/data-cleaning-india-air-quality,Data Cleaning India Air Quality,Ashwath Balaji,2019-10-11 01:16:53,19
+34,Data-quality,kernels,harshjain123/red-wine-quality-exploratory-data-analysis,Red Wine Quality - Exploratory Data Analysis,Harsh Jain,2021-05-06 12:52:53,41
+36,Data-quality,kernels,dansbecker/your-first-machine-learning-model,Your First Machine Learning Model,DanB,2021-11-09 00:01:04,2915
+38,Data-quality,kernels,georgyzubkov/water-quality-exploratory-data-analysis-ml-rf,Water quality.Exploratory data analysis + ML(RF),Georgy Zubkov,2022-09-09 03:59:33,98
+40,Data-quality,kernels,alexisbcook/cross-validation,Cross-Validation,Alexis Cook,2021-11-09 00:06:31,405
+2,Data-management,kernels,jagangupta/time-series-basics-exploring-traditional-ts,Time series Basics : Exploring traditional TS ,Jagan,2018-03-02 18:21:54,1776
+4,Data-management,kernels,nirajvermafcb/principal-component-analysis-explained,Principal Component Analysis explained,Niraj Verma,2017-01-12 18:47:03,250
+6,Data-management,kernels,goyalshalini93/car-price-prediction-linear-regression-rfe,Car Price Prediction (Linear Regression - RFE),Shalini Goyal,2019-04-26 09:01:04,602
+8,Data-management,kernels,janiobachmann/bank-marketing-campaign-opening-a-term-deposit,Bank Marketing Campaign || Opening a Term Deposit,Janio Martinez Bachmann,2019-03-16 20:32:03,404
+10,Data-management,kernels,ismailelbouknify/data-preparation-date-management,data preparation(Date management),Ismail ELBOUKNIFY,2022-07-05 23:16:04,15
+12,Data-management,kernels,cdeotte/candidate-rerank-model-lb-0-575,Candidate ReRank Model - [LB 0.575],Chris Deotte,2022-11-16 20:11:27,365
+14,Data-management,kernels,justjun0321/way-to-google-get-a-job-in-goggle-word-cloud,Way to Google - Get a job in Goggle (Word Cloud),Wei Chun Chang,2020-09-03 05:42:51,186
+16,Data-management,kernels,rohanrao/tutorial-on-reading-large-datasets,Tutorial on reading large datasets,Vopani,2020-12-14 17:13:08,1371
+18,Data-management,kernels,ultralytics/yolov5,YOLOv5,Glenn Jocher,2022-11-22 19:40:14,278
+2,Csv-dataset,kernels,mirfanazam/large-dataset-csv-dask-parquet,Large Dataset - CSV - DASK - Parquet,Muhammad Irfan Azam,2022-07-06 16:36:40,45
+2,Json-dataset,kernels,coldfir3/simple-yolox-dataset-generator-coco-json,Simple YoloX Dataset Generator (COCO-JSON),Adriano Passos,2021-12-11 16:01:11,45
+4,Json-dataset,kernels,ll490187880/download-dataset-from-json-py3,Download dataset from json(py3),Lei,2019-04-02 07:34:15,11
+6,Json-dataset,kernels,arunprathap/openvaccine-json-dataset-to-csv-dataset,OpenVaccine: JSON Dataset to CSV Dataset,Arun P R,2020-09-17 11:00:58,9
+8,Json-dataset,kernels,jhoward/is-it-a-bird-creating-a-model-from-your-own-data,Is it a bird? Creating a model from your own data,Jeremy Howard,2022-08-15 20:20:12,1897
+10,Json-dataset,kernels,sudalairajkumar/simple-exploration-baseline-ga-customer-revenue,Simple Exploration+Baseline - GA Customer Revenue,SRK,2018-09-25 12:47:47,1046
+12,Json-dataset,kernels,imdevskp/covid-19-analysis-visualization-comparisons,"""COVID-19 - Analysis Visualization & Comparisons""",Devakumar K. P.,2020-06-19 15:51:01,1779
+14,Json-dataset,kernels,dgunning/cord-research-engine-search-and-similarity,CORD Research Engine - Search and Similarity,DwightGunning,2020-05-15 23:57:50,475
+16,Json-dataset,kernels,remekkinas/yolox-training-pipeline-cots-dataset-lb-0-507,YoloX training pipeline COTS dataset [LB 0.507] !!,Remek Kinas,2021-12-02 11:42:35,433
+2,Txt-dataset,kernels,cdeotte/tensorflow-longformer-ner-cv-0-633,TensorFlow - LongFormer - NER - [CV 0.633],Chris Deotte,2021-12-27 16:20:51,538
+4,Txt-dataset,kernels,laowingkin/netflix-movie-recommendation,Netflix - Movie recommendation,DLao,2020-09-03 14:22:01,523
+2,Data-types,kernels,residentmario/data-types-and-missing-values,Data Types and Missing Values,Aleksey Bilogur,2022-02-08 16:48:25,540
+4,Data-types,kernels,residentmario/exercise-data-types-and-missing-values,Exercise: Data Types and Missing Values,Aleksey Bilogur,2022-02-08 16:41:43,45
+6,Data-types,kernels,raddar/amex-data-int-types-train,AMEX data int types - train,raddar,2022-06-03 10:34:45,148
+8,Data-types,kernels,raddar/amex-data-int-types-test,AMEX data int types - test,raddar,2022-06-03 10:34:16,48
+10,Data-types,kernels,dansbecker/data-types-and-missing-data-reference-daily,Data types and missing data reference Daily,DanB,2019-05-14 00:06:12,24
+12,Data-types,kernels,alexisbcook/exercise-data-types,Exercise: Data Types,Alexis Cook,2022-06-06 19:02:24,1
+14,Data-types,kernels,rtatman/getting-started-in-r-first-steps,Getting staRted in R: First Steps,Rachael Tatman,2017-12-01 21:49:24,2288
+16,Data-types,kernels,zohrab/rus-python-part-1-data-types,Rus Python. Part 1. Data types,Zöhrab Ahundov,2020-02-13 17:31:33,59
+18,Data-types,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+20,Data-types,kernels,alexisbcook/data-types,Data Types,Alexis Cook,2022-06-06 19:02:15,6
+22,Data-types,kernels,jessemostipak/dive-into-dplyr-tutorial-1,Dive into dplyr (tutorial #1),Jesse Mostipak,2020-10-14 15:40:50,1915
+24,Data-types,kernels,kanncaa1/seaborn-tutorial-for-beginners,Seaborn Tutorial for Beginners,DATAI,2020-01-28 17:54:17,1074
+26,Data-types,kernels,codename007/home-credit-complete-eda-feature-importance,Home Credit : Complete EDA + Feature Importance ??,Lathwal,2018-06-08 11:56:26,901
+28,Data-types,kernels,colinmorris/working-with-external-libraries,Working with External Libraries,ColinMorris,2021-11-11 14:28:12,1354
+30,Data-types,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+32,Data-types,kernels,dansbecker/your-first-machine-learning-model,Your First Machine Learning Model,DanB,2021-11-09 00:01:04,2915
+34,Data-types,kernels,colinmorris/hello-python,"""Hello Python""",ColinMorris,2022-06-09 20:56:48,5953
+36,Data-types,kernels,dansbecker/model-validation,Model Validation,DanB,2021-11-09 00:00:51,2656
+38,Data-types,kernels,residentmario/bivariate-plotting-with-pandas,Bivariate plotting with pandas,Aleksey Bilogur,2018-09-19 21:04:48,326
+40,Data-types,kernels,kashnitsky/topic-1-exploratory-data-analysis-with-pandas,Topic 1. Exploratory Data Analysis with Pandas,Yury Kashnitsky,2021-05-07 08:35:46,873
+2,Numerical-data,kernels,aantonova/practical-eda-on-numerical-data,Practical EDA on numerical data,Ann Antonova,2018-08-30 12:31:32,72
+4,Numerical-data,kernels,mahmudulhasanshauqi/numerical-data-analysis,Numerical Data Analysis,Shauqi,2019-02-25 05:42:25,3
+6,Numerical-data,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+2,Categorical-variables,kernels,alexisbcook/categorical-variables,Categorical Variables,Alexis Cook,2021-11-09 00:07:00,702
+4,Categorical-variables,kernels,alexisbcook/exercise-categorical-variables,Exercise: Categorical Variables,Alexis Cook,2021-11-09 00:06:35,15
+6,Categorical-variables,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+8,Categorical-variables,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+10,Categorical-variables,kernels,willkoehrsen/start-here-a-gentle-introduction,Start Here: A Gentle Introduction,Will Koehrsen,2018-08-25 02:00:07,3388
+12,Categorical-variables,kernels,serigne/stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,Serigne ,2017-12-16 11:57:12,6777
+14,Categorical-variables,kernels,residentmario/univariate-plotting-with-pandas,Univariate plotting with pandas,Aleksey Bilogur,2018-09-19 21:30:13,624
+16,Categorical-variables,kernels,helgejo/an-interactive-data-science-tutorial,An Interactive Data Science Tutorial,Helge Bjorland,2017-01-28 19:54:58,853
+18,Categorical-variables,kernels,nextbigwhat/eda-for-categorical-variables-a-beginner-s-way,EDA for Categorical Variables - A Beginner's Way,Samarth Agrawal,2018-12-26 03:34:10,63
+20,Categorical-variables,kernels,paulrohan2020/tutorial-encoding-categorical-variables,Tutorial-Encoding-Categorical-Variables,Data Storm,2022-04-19 12:23:37,35
+22,Categorical-variables,kernels,dansbecker/using-categorical-data-with-one-hot-encoding,Using Categorical Data with One Hot Encoding,DanB,2018-01-22 00:36:58,900
+24,Categorical-variables,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+26,Categorical-variables,kernels,apapiu/regularized-linear-models,Regularized Linear Models,Alexandru Papiu,2017-04-21 05:50:08,1726
+28,Categorical-variables,kernels,erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda,"""House prices: Lasso XGBoost and a detailed EDA""",Erik Bruin,2018-05-10 06:33:09,1477
+30,Categorical-variables,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+32,Categorical-variables,kernels,willkoehrsen/introduction-to-manual-feature-engineering,Introduction to Manual Feature Engineering,Will Koehrsen,2018-07-31 23:50:27,793
+34,Categorical-variables,kernels,residentmario/bivariate-plotting-with-pandas,Bivariate plotting with pandas,Aleksey Bilogur,2018-09-19 21:04:48,326
+36,Categorical-variables,kernels,prashant111/naive-bayes-classifier-in-python,Naive Bayes Classifier in Python,Prashant Banerjee,2020-08-28 01:52:00,379
+38,Categorical-variables,kernels,dansbecker/handling-missing-values,Handling Missing Values,DanB,2019-02-26 02:31:25,1330
+40,Categorical-variables,kernels,arthurtok/introduction-to-ensembling-stacking-in-python,Introduction to Ensembling/Stacking in Python,Anisotropic,2018-06-16 14:41:15,5663
+2,Missing-values,kernels,dansbecker/handling-missing-values,Handling Missing Values,DanB,2019-02-26 02:31:25,1330
+4,Missing-values,kernels,alexisbcook/missing-values,Missing Values,Alexis Cook,2021-11-09 00:06:21,873
+6,Missing-values,kernels,rtatman/data-cleaning-challenge-handling-missing-values,Data Cleaning Challenge: Handling missing values,Rachael Tatman,2018-03-30 21:18:56,1273
+8,Missing-values,kernels,residentmario/data-types-and-missing-values,Data Types and Missing Values,Aleksey Bilogur,2022-02-08 16:48:25,540
+10,Missing-values,kernels,alexisbcook/handling-missing-values,Handling Missing Values,Alexis Cook,2021-12-14 18:23:30,254
+12,Missing-values,kernels,alexisbcook/exercise-missing-values,Exercise: Missing Values,Alexis Cook,2021-11-09 00:06:37,16
+14,Missing-values,kernels,residentmario/exercise-data-types-and-missing-values,Exercise: Data Types and Missing Values,Aleksey Bilogur,2022-02-08 16:41:43,45
+16,Missing-values,kernels,parulpandey/a-guide-to-handling-missing-values-in-python,A Guide to Handling Missing values in Python ,Parul Pandey,2020-07-11 10:41:36,614
+18,Missing-values,kernels,rtatman/data-cleaning-challenge-imputing-missing-values,Data Cleaning Challenge: Imputing missing values,Rachael Tatman,2019-01-14 20:55:18,65
+20,Missing-values,kernels,viveksrinivasan/zillow-eda-on-missing-values-multicollinearity,Zillow EDA On Missing Values & Multicollinearity,Vivek Srinivasan,2017-06-19 12:02:42,150
+22,Missing-values,kernels,pourchot/hunting-for-missing-values,Hunting for missing values,Laurent Pourchot,2022-08-17 16:14:59,80
+24,Missing-values,kernels,meikegw/filling-up-missing-values,Filling up missing values,meikegw,2017-01-19 19:58:32,70
+26,Missing-values,kernels,cgump3rt/investigate-missing-values,Investigate Missing Values,cgumpert,2017-01-10 22:33:01,54
+28,Missing-values,kernels,juejuewang/handle-missing-values-in-time-series-for-beginners,Handle Missing Values in Time Series For Beginners,jingjuewang,2017-12-11 23:49:00,124
+30,Missing-values,kernels,debarshichanda/handling-missing-values,Handling Missing Values,Debarshi Chanda,2021-05-23 16:33:10,44
+32,Missing-values,kernels,nikunjm88/carefully-dealing-with-missing-values,Carefully dealing with missing values,Nikunj,2017-09-15 13:38:18,57
+34,Missing-values,kernels,iamleonie/utility-function-and-patterns-in-missing-values,Utility Function and Patterns in Missing Values,Leonie,2020-12-11 19:58:17,192
+36,Missing-values,kernels,viveksrinivasan/eda-focus-on-missing-values-and-simple-xgb,EDA Focus On Missing Values And Simple XGB,Vivek Srinivasan,2017-10-03 18:00:47,90
+38,Missing-values,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+40,Missing-values,kernels,serigne/stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,Serigne ,2017-12-16 11:57:12,6777
+2,Null-values,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+4,Null-values,kernels,hamdallak/dealing-with-null-values,Dealing with Null Values ,Hamdalla  F. Kareem,2021-09-02 21:57:01,45
+6,Null-values,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+8,Null-values,kernels,yassineghouzam/introduction-to-cnn-keras-0-997-top-6,Introduction to CNN Keras - 0.997 (top 6%),Yassine Ghouzam,2017-08-18 01:42:23,6458
+10,Null-values,kernels,mrisdal/exploring-survival-on-the-titanic,Exploring Survival on the Titanic,Meg Risdal,2017-12-26 19:42:24,3744
+12,Null-values,kernels,masumrumi/a-statistical-analysis-ml-workflow-of-titanic,A Statistical Analysis & ML workflow of Titanic,Masum Rumi,2022-04-21 19:25:23,1416
+14,Null-values,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+16,Null-values,kernels,residentmario/data-types-and-missing-values,Data Types and Missing Values,Aleksey Bilogur,2022-02-08 16:48:25,540
+18,Null-values,kernels,kanncaa1/statistical-learning-tutorial-for-beginners,Statistical Learning Tutorial for Beginners,DATAI,2018-09-09 13:39:20,785
+20,Null-values,kernels,dansbecker/getting-started-with-sql-and-bigquery,Getting Started With SQL and BigQuery,DanB,2021-11-09 00:04:04,888
+22,Null-values,kernels,ogrellier/feature-selection-with-null-importances,Feature Selection with Null Importances,olivier,2018-06-14 06:44:06,754
+24,Null-values,kernels,dheerajmukati/removing-null-values,Removing null values ,Dheeraj Mukati,2022-10-30 16:02:19,19
+26,Null-values,kernels,yassineghouzam/titanic-top-4-with-ensemble-modeling,Titanic Top 4% with ensemble modeling,Yassine Ghouzam,2017-08-09 14:34:44,2735
+28,Null-values,kernels,kenjee/titanic-project-example,Titanic Project Example,Ken Jee,2021-04-08 02:17:34,871
+30,Null-values,kernels,omarelgabry/a-journey-through-titanic,A Journey through Titanic,OMAR ELGABRY,2016-11-15 18:19:03,1399
+32,Null-values,kernels,ash316/eda-to-prediction-dietanic,EDA To Prediction(DieTanic),Ashwini Swain,2018-03-08 17:55:32,2555
+34,Null-values,kernels,arthurtok/interactive-porto-insights-a-plot-ly-tutorial,Interactive Porto Insights - A Plot.ly Tutorial,Anisotropic,2017-12-13 17:01:57,518
+36,Null-values,kernels,fabiendaniel/customer-segmentation,Customer Segmentation,FabienDaniel,2019-03-21 14:19:41,987
+38,Null-values,kernels,colinmorris/functions-and-getting-help,Functions and Getting Help,ColinMorris,2021-11-11 14:28:17,2979
+40,Null-values,kernels,freespirit08/time-series-for-beginners-with-arima,Time Series For beginners with ARIMA,Arindam Chatterjee,2018-08-24 16:53:34,397
+2,Outliers,kernels,aharless/xgb-w-o-outliers-lgb-with-outliers-combined,XGB w/o outliers & LGB with outliers combined,Andy Harless,2017-07-18 02:21:21,96
+4,Outliers,kernels,rtatman/data-cleaning-challenge-outliers,Data Cleaning Challenge: Outliers,Rachael Tatman,2019-01-14 20:56:00,81
+6,Outliers,kernels,mindcool/unrolling-of-helices-outliers-removal,Unrolling of helices + outliers removal,Luis,2018-07-19 17:32:14,190
+8,Outliers,kernels,junjitakeshima/ubiquant-simple-lgbm-removing-outliers-en-jp,[Ubiquant] Simple LGBM removing Outliers (En/Jp),Junji Takeshima,2022-02-23 07:20:06,101
+10,Outliers,kernels,sudalairajkumar/rainfall-test,Beware of Outliers !!,SRK,2015-09-18 01:38:17,45
+12,Outliers,kernels,miklgr500/ghost-drift-and-outliers,"""""""Ghost"""" drift and Outliers""",Welf Crozzo,2020-04-12 06:25:26,63
+14,Outliers,kernels,ramjib/cassava-leaf-disease-eda-and-outliers,Cassava Leaf Disease: EDA and Outliers,Ram (ji),2021-10-13 05:57:32,67
+16,Outliers,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+18,Outliers,kernels,serigne/stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,Serigne ,2017-12-16 11:57:12,6777
+20,Outliers,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+22,Outliers,kernels,tilii7/you-want-outliers-we-got-them-outliers,You want outliers? We got them outliers!,Tilii,2017-07-04 07:08:36,48
+24,Outliers,kernels,javigallego/outliers-eda-clustering-tutorial,Outliers+EDA+Clustering Tutorial,Francisco Javier Gallego,2022-09-29 19:18:43,79
+26,Outliers,kernels,kingychiu/home-credit-eda-distributions-and-outliers,Home Credit EDA: Distributions and Outliers,nlgn,2018-05-24 18:04:15,55
+2,Data-transformation,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+4,Data-transformation,kernels,serigne/stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,Serigne ,2017-12-16 11:57:12,6777
+6,Data-transformation,kernels,saumyadeepm/data-transformation-titanic-dataset,Data Transformation | Titanic Dataset,saumyadeepmitra,2022-11-18 20:18:50,13
+8,Data-transformation,kernels,rtatman/data-cleaning-challenge-scale-and-normalize-data,Data Cleaning Challenge: Scale and Normalize Data,Rachael Tatman,2018-03-30 21:18:36,557
+10,Data-transformation,kernels,weikai/data-exploration-transformation-ridge-lasso,Data exploration & transformation. Ridge & LASSO.,Weikai Mao,2019-05-21 10:52:17,7
+12,Data-transformation,kernels,arthurtok/interactive-intro-to-dimensionality-reduction,Interactive Intro to Dimensionality Reduction,Anisotropic,2018-09-24 22:53:26,814
+14,Data-transformation,kernels,freespirit08/time-series-for-beginners-with-arima,Time Series For beginners with ARIMA,Arindam Chatterjee,2018-08-24 16:53:34,397
+16,Data-transformation,kernels,dgawlik/house-prices-eda,House Prices EDA,Dominik Gawlik,2017-02-20 10:51:47,513
+18,Data-transformation,kernels,residentmario/exercise-summary-functions-and-maps,Exercise: Summary Functions and Maps,Aleksey Bilogur,2022-02-08 16:43:13,76
+20,Data-transformation,kernels,nroman/melanoma-pytorch-starter-efficientnet,Melanoma. Pytorch starter. EfficientNet,Roman,2020-08-04 20:37:41,435
+22,Data-transformation,kernels,nareshbhat/outlier-the-silent-killer,Outlier!!! The Silent Killer,Naresha Bhat,2021-08-30 07:18:27,746
+24,Data-transformation,kernels,saga21/covid-global-forecast-sir-model-ml-regressions,COVID Global Forecast: SIR model + ML regressions,Patrick Sánchez,2020-04-16 10:40:17,787
+26,Data-transformation,kernels,ankurrezo/data-cleaning-and-transformation-enron-email,Data Cleaning and Transformation Enron email,Ankur Kumar,2021-01-25 13:08:30,4
+28,Data-transformation,kernels,yassineghouzam/introduction-to-cnn-keras-0-997-top-6,Introduction to CNN Keras - 0.997 (top 6%),Yassine Ghouzam,2017-08-18 01:42:23,6458
+30,Data-transformation,kernels,lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition,How I made top 0.3% on a Kaggle competition,Lavanya Shukla,2019-06-09 21:10:44,983
+32,Data-transformation,kernels,abhianalytic/amex-read-full-data-without-any-transformation,AmEx : Read full data without any transformation,AbhishekKumar,2022-06-13 13:32:17,13
+34,Data-transformation,kernels,sudhirnl7/linear-regression-tutorial,Linear Regression Tutorial,Sudhir Kumar,2020-04-04 14:56:45,357
+36,Data-transformation,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+38,Data-transformation,kernels,burhanykiyakoglu/predicting-house-prices,Predicting House Prices,Burhan Y. Kiyakoglu,2019-05-23 20:33:09,871
+40,Data-transformation,kernels,martinpiotte/bounding-box-model,Bounding Box Model,Martin Piotte,2018-06-29 23:52:43,241
+2,Principal-Component-Analysis-(PCA),kernels,arthurtok/interactive-intro-to-dimensionality-reduction,Interactive Intro to Dimensionality Reduction,Anisotropic,2018-09-24 22:53:26,814
+4,Principal-Component-Analysis-(PCA),kernels,sid321axn/principal-component-analysis-pca,Principal Component Analysis (PCA),Manu Siddhartha,2019-03-05 02:01:30,16
+6,Principal-Component-Analysis-(PCA),kernels,nirajvermafcb/principal-component-analysis-explained,Principal Component Analysis explained,Niraj Verma,2017-01-12 18:47:03,250
+8,Principal-Component-Analysis-(PCA),kernels,arthurtok/principal-component-analysis-with-kmeans-visuals,Principal Component Analysis with KMeans visuals,Anisotropic,2017-10-04 19:49:23,250
+10,Principal-Component-Analysis-(PCA),kernels,avikumart/pca-principal-component-analysis-variance-plots,[PCA]Principal Component Analysis &variance plots,AvikumarT,2022-11-02 11:05:29,80
+12,Principal-Component-Analysis-(PCA),kernels,serkanpeldek/face-recognition-on-olivetti-dataset,Face Recognition on Olivetti Dataset,Serkan Peldek,2019-08-27 05:49:19,309
+14,Principal-Component-Analysis-(PCA),kernels,ryanholbrook/feature-engineering-for-house-prices,Feature Engineering for House Prices,Ryan Holbrook,2022-05-05 12:49:09,319
+16,Principal-Component-Analysis-(PCA),kernels,karimsaieh/pca-principal-component-analysis-without-sklearn,PCA Principal Component Analysis without sklearn,karim s.h,2019-11-16 15:13:26,13
+2,Categorical-EDA,kernels,subinium/tps-may-categorical-eda,[TPS-May] Categorical EDA,Subin An,2021-05-24 07:21:40,182
+4,Categorical-EDA,kernels,subinium/categorical-data-eda-visualization,Categorical Data EDA & Visualization,Subin An,2020-11-01 23:23:32,75
+6,Categorical-EDA,kernels,anshumoudgil/iiot-digital-twins-categorical-data-eda,"""IIoT -Digital Twins -Categorical data EDA """,Solve for Fun,2020-08-04 15:23:01,44
+8,Categorical-EDA,kernels,willkoehrsen/start-here-a-gentle-introduction,Start Here: A Gentle Introduction,Will Koehrsen,2018-08-25 02:00:07,3388
+10,Categorical-EDA,kernels,nextbigwhat/eda-for-categorical-variables-a-beginner-s-way,EDA for Categorical Variables - A Beginner's Way,Samarth Agrawal,2018-12-26 03:34:10,63
+12,Categorical-EDA,kernels,ash316/eda-to-prediction-dietanic,EDA To Prediction(DieTanic),Ashwini Swain,2018-03-08 17:55:32,2555
+14,Categorical-EDA,kernels,ekami66/detailed-exploratory-data-analysis-with-python,Detailed exploratory data analysis with python,Tuatini GODARD,2017-01-20 02:06:37,646
+16,Categorical-EDA,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+18,Categorical-EDA,kernels,dejavu23/house-prices-eda-to-ml-beginner,House Prices: EDA to ML (Beginner),deja vu,2019-06-15 14:34:23,331
+20,Categorical-EDA,kernels,subinium/eda-visualization-categorical-data,EDA + Visualization : Categorical Data,Subin An,2019-09-26 15:34:17,18
+2,Univariate-analysis,kernels,sudalairajkumar/univariate-analysis-regression-lb-0-006,Univariate Analysis & Regression (LB : 0.006),SRK,2016-12-09 09:30:11,121
+4,Univariate-analysis,kernels,ravichaubey1506/univariate-statistical-analysis-on-diabetes,Univariate Statistical Analysis on Diabetes,Ravi Chaubey,2020-05-06 07:10:12,97
+6,Univariate-analysis,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+8,Univariate-analysis,kernels,kanncaa1/feature-selection-and-data-visualization,Feature Selection and Data Visualization,DATAI,2021-07-10 16:05:36,1689
+10,Univariate-analysis,kernels,etakla/exploring-the-dataset-univariate-analysis,"""Exploring the Dataset Univariate Analysis""",E-M-A-D,2017-02-28 14:19:59,21
+12,Univariate-analysis,kernels,residentmario/welcome-to-data-visualization,Welcome to data visualization,Aleksey Bilogur,2018-01-23 20:24:14,450
+14,Univariate-analysis,kernels,sudalairajkumar/simple-exploration-notebook-zillow-prize,Simple Exploration Notebook - Zillow Prize,SRK,2017-06-03 13:40:09,1104
+16,Univariate-analysis,kernels,lonewolf95/eda-101-univariate-analysis-for-beginners,EDA 101: Univariate Analysis for Beginners,Sharoon Saxena,2020-09-01 13:15:26,26
+2,Multivariate-analysis,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+4,Multivariate-analysis,kernels,ravichaubey1506/multivariate-statistical-analysis-on-diabetes,Multivariate Statistical Analysis on Diabetes,Ravi Chaubey,2020-08-10 13:49:52,117
+6,Multivariate-analysis,kernels,sanikamal/introduction-to-multivariate-analysis,Introduction To Multivariate Analysis,Sani Kamal,2018-11-16 23:31:40,11
+8,Multivariate-analysis,kernels,suddhu/heatmap-based-multivariate-analysis,Heatmap based multivariate analysis,sudhar287,2019-01-22 01:45:00,18
+10,Multivariate-analysis,kernels,residentmario/welcome-to-data-visualization,Welcome to data visualization,Aleksey Bilogur,2018-01-23 20:24:14,450
+2,Linear-regression,kernels,sudhirnl7/linear-regression-tutorial,Linear Regression Tutorial,Sudhir Kumar,2020-04-04 14:56:45,357
+4,Linear-regression,kernels,goyalshalini93/car-price-prediction-linear-regression-rfe,Car Price Prediction (Linear Regression - RFE),Shalini Goyal,2019-04-26 09:01:04,602
+6,Linear-regression,kernels,divan0/multiple-linear-regression,Multiple Linear Regression,Diva Dugar,2018-08-01 14:19:36,145
+8,Linear-regression,kernels,vivinbarath/simple-linear-regression-for-salary-data,Simple Linear Regression for Salary Data,Barath ,2020-02-19 17:22:58,181
+10,Linear-regression,kernels,foxtreme/linear-regression-project,Linear Regression Project,Chris Charry,2019-02-24 02:53:30,64
+12,Linear-regression,kernels,ashydv/sales-prediction-simple-linear-regression,Sales Prediction (Simple Linear Regression),Ashish,2019-03-07 06:21:44,103
+14,Linear-regression,kernels,aminizahra/linear-regression,Linear Regression,Zahra Amini,2022-02-21 21:06:09,114
+16,Linear-regression,kernels,anthonypino/price-analysis-and-linear-regression,Price analysis and Linear Regression,Tony Pino,2017-08-16 05:54:08,139
+18,Linear-regression,kernels,aakashns/pytorch-basics-linear-regression-from-scratch,PyTorch basics - Linear Regression from scratch,Aakash N S,2019-01-22 19:34:30,181
+20,Linear-regression,kernels,nitindatta/fifa-in-depth-analysis-with-linear-regression,FIFA in depth analysis with Linear Regression,Nitin Datta,2020-10-16 06:19:46,350
+22,Linear-regression,kernels,mariapushkareva/medical-insurance-cost-with-linear-regression,Medical Insurance Cost with Linear Regression,Marie,2020-07-14 07:11:04,158
+24,Linear-regression,kernels,suicaokhoailang/blending-with-linear-regression-0-688-lb,Blending with Linear Regression [0.688 LB],Khoi Nguyen,2018-11-18 09:58:07,138
+26,Linear-regression,kernels,rbyron/simple-linear-regression-models,Simple linear regression models,Rocío Ventura,2018-03-30 10:28:21,70
+28,Linear-regression,kernels,jnikhilsai/cross-validation-with-linear-regression,Cross-Validation with Linear Regression,Nikhil Sai,2019-08-20 07:42:37,75
+30,Linear-regression,kernels,gauravduttakiit/bike-sharing-multiple-linear-regression,Bike Sharing : Multiple Linear Regression,Gaurav Dutta,2022-01-22 13:15:59,56
+32,Linear-regression,kernels,mayanksrivastava/predict-housing-prices-simple-linear-regression,Predict Housing Prices - Simple Linear Regression,Mayank Srivastava,2017-06-09 22:06:27,75
+34,Linear-regression,kernels,niteshyadav3103/linear-regression-regularization-lasso-ridge,Linear Regression & Regularization(Lasso & Ridge),Nitesh Yadav,2021-11-22 13:27:35,125
+36,Linear-regression,kernels,shrutimechlearn/step-by-step-assumptions-linear-regression,Step by Step Assumptions - Linear Regression,Shruti_Iyyer,2020-06-15 13:40:29,112
+38,Linear-regression,kernels,ryanholbrook/exercise-linear-regression-with-time-series,Exercise: Linear Regression With Time Series,Ryan Holbrook,2021-11-18 13:09:29,11
+40,Linear-regression,kernels,tunguz/simple-linear-regression-benchmark,Simple Linear Regression Benchmark,Bojan Tunguz,2019-12-01 13:42:13,90
+2,Simple-linear-regression,kernels,vivinbarath/simple-linear-regression-for-salary-data,Simple Linear Regression for Salary Data,Barath ,2020-02-19 17:22:58,181
+4,Simple-linear-regression,kernels,ashydv/sales-prediction-simple-linear-regression,Sales Prediction (Simple Linear Regression),Ashish,2019-03-07 06:21:44,103
+6,Simple-linear-regression,kernels,rbyron/simple-linear-regression-models,Simple linear regression models,Rocío Ventura,2018-03-30 10:28:21,70
+8,Simple-linear-regression,kernels,mayanksrivastava/predict-housing-prices-simple-linear-regression,Predict Housing Prices - Simple Linear Regression,Mayank Srivastava,2017-06-09 22:06:27,75
+10,Simple-linear-regression,kernels,tunguz/simple-linear-regression-benchmark,Simple Linear Regression Benchmark,Bojan Tunguz,2019-12-01 13:42:13,90
+12,Simple-linear-regression,kernels,ariadne/simple-one-feature-linear-regression,Simple One Feature Linear Regression,Ariadne,2017-05-18 20:27:06,69
+14,Simple-linear-regression,kernels,amitdhakre13/simple-linear-regression-in-r,Simple Linear Regression in R ,zohan,2017-10-27 10:43:13,49
+16,Simple-linear-regression,kernels,sandhyakrishnan02/simple-linear-regression-salary-vs-experience,Simple Linear Regression - Salary Vs Experience,SandhyaKrishnan02,2022-12-14 15:05:19,69
+18,Simple-linear-regression,kernels,redwankarimsony/simple-linear-regression-for-beginners,Simple Linear Regression for Beginners,Md. Redwan Karim Sony,2021-06-28 03:37:48,34
+20,Simple-linear-regression,kernels,nicapotato/in-depth-simple-linear-regression,In-Depth Simple Linear Regression,nicapotato,2018-07-16 13:58:58,38
+22,Simple-linear-regression,kernels,devzohaib/simple-linear-regression,Simple-Linear-Regression,devzohaib,2020-11-23 18:36:48,11
+24,Simple-linear-regression,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+26,Simple-linear-regression,kernels,codefordata/headbrain-simple-linear-regression,Headbrain-simple linear regression.,Codefordata,2019-03-03 20:24:41,10
+28,Simple-linear-regression,kernels,serigne/stacked-regressions-top-4-on-leaderboard,Stacked Regressions : Top 4% on LeaderBoard,Serigne ,2017-12-16 11:57:12,6777
+30,Simple-linear-regression,kernels,luddarell/tutorial-simple-multiple-linear-regression,(Tutorial) Simple & Multiple Linear Regression,Ludgerus Darell,2019-03-17 10:11:42,15
+32,Simple-linear-regression,kernels,venjktry/simple-linear-regression,Simple Linear Regression,Venkatesh S,2017-07-18 10:55:37,6
+34,Simple-linear-regression,kernels,paulorzp/simple-rolling-linear-regression-no-leakage,Simple Rolling Linear Regression (no leakage),Paulo Pinto,2022-06-11 04:08:40,23
+36,Simple-linear-regression,kernels,igorkf/ubiquant-simple-linear-regression-baseline,Ubiquant - Simple Linear Regression baseline,Igor Kuivjogi Fernandes,2022-01-31 20:10:10,24
+38,Simple-linear-regression,kernels,paulrohan2020/eda-and-simple-linear-regression-for-house-price,EDA-and-simple Linear Regression-for-House-Price,Data Storm,2022-04-19 12:23:30,41
+40,Simple-linear-regression,kernels,monkeyorman/simple-linear-regression-in-r-0-0648835,Simple Linear Regression in R (0.0648835),JT,2017-07-09 15:26:04,21
+2,Multiple-Linear-Regression,kernels,divan0/multiple-linear-regression,Multiple Linear Regression,Diva Dugar,2018-08-01 14:19:36,145
+4,Multiple-Linear-Regression,kernels,gauravduttakiit/bike-sharing-multiple-linear-regression,Bike Sharing : Multiple Linear Regression,Gaurav Dutta,2022-01-22 13:15:59,56
+6,Multiple-Linear-Regression,kernels,stieranka/multiple-linear-regression,Multiple Linear Regression,Marek,2018-09-26 14:16:14,18
+2,Nonlinear-regression,kernels,ahmetcankaraolan/salary-predict-with-nonlinear-regression-models,Salary Predict with NonLinear Regression Models,Ahmet Can Karaoglan,2020-07-14 22:20:05,29
+4,Nonlinear-regression,kernels,meowmeowmeowmeowmeow/nonlinear-regression,Nonlinear regression,Mykola,2018-11-09 17:28:08,4
+6,Nonlinear-regression,kernels,dgawlik/house-prices-eda,House Prices EDA,Dominik Gawlik,2017-02-20 10:51:47,513
+8,Nonlinear-regression,kernels,faressayah/practical-introduction-to-10-regression-algorithm,Practical Introduction to 10 Regression Algorithm,Fares Sayah,2022-01-20 13:43:02,707
+10,Nonlinear-regression,kernels,ibrahimyildiz/salary-predict-with-nonlinear-regression-models,Salary Predict with NonLinear Regression Models,ibrahimyildiz,2020-07-14 07:22:18,14
+12,Nonlinear-regression,kernels,cdeotte/support-vector-machine-0-925,Support Vector Machine - [0.925],Chris Deotte,2019-05-20 22:23:22,291
+14,Nonlinear-regression,kernels,jesucristo/1-house-prices-solution-top-1,#1 House Prices Solution [top 1%],Nanashi,2019-09-06 08:36:08,600
+16,Nonlinear-regression,kernels,prashant111/comprehensive-guide-on-feature-selection,Comprehensive Guide on Feature Selection,Prashant Banerjee,2020-11-18 15:26:57,488
+18,Nonlinear-regression,kernels,matleonard/feature-selection,Feature Selection,Mat Leonard,2021-11-09 00:07:43,191
+20,Nonlinear-regression,kernels,dvasyukova/a-linear-model-on-apps-and-labels,A linear model on apps and labels,dune_dweller,2016-08-05 10:28:37,197
+22,Nonlinear-regression,kernels,shtrausslearning/bayesian-regression-house-price-prediction,Bayesian Regression | House Price Prediction,Andrey Shtrauss,2022-07-16 14:03:59,164
+24,Nonlinear-regression,kernels,ryanholbrook/deep-neural-networks,Deep Neural Networks,Ryan Holbrook,2022-05-05 17:51:00,123
+26,Nonlinear-regression,kernels,rafjaa/dealing-with-very-small-datasets,Dealing with very small datasets,Rafael Alencar,2019-03-06 19:38:25,256
+28,Nonlinear-regression,kernels,pouryaayria/a-complete-ml-pipeline-tutorial-acu-86,A Complete ML Pipeline Tutorial (ACU ~ 86%),PIR,2018-04-14 07:56:14,402
+30,Nonlinear-regression,kernels,lalitharajesh/iris-dataset-exploratory-data-analysis,Iris Dataset - Exploratory Data Analysis,Lalitha Rajesh,2018-01-26 11:39:38,89
+32,Nonlinear-regression,kernels,arthurtok/interactive-intro-to-dimensionality-reduction,Interactive Intro to Dimensionality Reduction,Anisotropic,2018-09-24 22:53:26,814
+34,Nonlinear-regression,kernels,kashnitsky/topic-4-linear-models-part-4-pros-cons,Topic 4. Linear models. Part 4. Pros & cons,Yury Kashnitsky,2021-05-07 09:43:37,102
+36,Nonlinear-regression,kernels,farazrahman/predicting-star-galaxy-quasar-with-svm,"""Predicting Star Galaxy & Quasar with SVM""",Faraz Rahman,2018-12-15 08:39:11,59
+38,Nonlinear-regression,kernels,mariopasquato/linear-model,Linear model 0.65 in lb,Mario Pasquato,2016-02-02 12:24:36,41
+40,Nonlinear-regression,kernels,kashnitsky/topic-4-linear-models-part-3-regularization,Topic 4. Linear models. Part 3. Regularization,Yury Kashnitsky,2021-05-07 09:33:14,109
+2,Decision-Trees-regression,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+4,Decision-Trees-regression,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+6,Decision-Trees-regression,kernels,prashant111/decision-tree-classifier-tutorial,Decision-Tree Classifier Tutorial ,Prashant Banerjee,2020-03-13 12:46:21,425
+8,Decision-Trees-regression,kernels,rtatman/welcome-to-data-science-in-r,Welcome to Data Science in R,Rachael Tatman,2018-04-11 21:56:06,406
+10,Decision-Trees-regression,kernels,kashnitsky/topic-3-decision-trees-and-knn,Topic 3. Decision Trees and kNN,Yury Kashnitsky,2021-05-07 09:25:45,281
+12,Decision-Trees-regression,kernels,joparga3/in-depth-skewed-data-classif-93-recall-acc-now,In depth skewed data classif. (93% recall acc now),joparga3,2016-12-17 09:03:25,763
+2,Neural-network-regression,kernels,kanncaa1/deep-learning-tutorial-for-beginners,Deep Learning Tutorial for Beginners,DATAI,2019-05-25 14:42:24,2312
+4,Neural-network-regression,kernels,matthieubritoantunes/convolutional-neural-network-for-image-regression,Convolutional Neural Network for Image Regression,antounes,2022-01-05 16:41:34,17
+6,Neural-network-regression,kernels,kanncaa1/pytorch-tutorial-for-deep-learning-lovers,Pytorch Tutorial for Deep Learning Lovers,DATAI,2020-04-06 13:29:40,1321
+8,Neural-network-regression,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+10,Neural-network-regression,kernels,kanncaa1/machine-learning-tutorial-for-beginners,Machine Learning Tutorial for Beginners,DATAI,2018-07-24 14:43:45,2342
+12,Neural-network-regression,kernels,shivamb/data-science-glossary-on-kaggle,Data Science Glossary on Kaggle,Shivam Bansal,2018-12-10 09:47:14,2141
+14,Neural-network-regression,kernels,abhishek/approaching-almost-any-nlp-problem-on-kaggle,Approaching (Almost) Any NLP Problem on Kaggle,Abhishek Thakur,2020-07-22 06:02:35,2182
+16,Neural-network-regression,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+18,Neural-network-regression,kernels,kanncaa1/recurrent-neural-network-with-pytorch,Recurrent Neural Network with Pytorch,DATAI,2020-04-07 14:11:12,349
+20,Neural-network-regression,kernels,kakauandme/tensorflow-deep-nn,TensorFlow deep NN,Kirill Kliavin,2016-02-23 04:33:52,666
+22,Neural-network-regression,kernels,prathamtripathi/regression-neural-network,Regression-Neural-Network,Pratham Tripathi,2020-08-21 06:43:04,9
+24,Neural-network-regression,kernels,areeshaary/regression-using-artificial-neural-networks,Regression using Artificial Neural Networks ,Areesha Anjum,2021-12-26 19:01:11,9
+26,Neural-network-regression,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+28,Neural-network-regression,kernels,ryanholbrook/a-single-neuron,A Single Neuron,Ryan Holbrook,2022-05-05 17:51:27,214
+30,Neural-network-regression,kernels,faressayah/practical-introduction-to-10-regression-algorithm,Practical Introduction to 10 Regression Algorithm,Fares Sayah,2022-01-20 13:43:02,707
+32,Neural-network-regression,kernels,mejbahahammad/recurrent-neural-network-regression,Recurrent Neural Network : Regression,MEJBAH AHAMMAD,2020-08-29 18:36:57,19
+34,Neural-network-regression,kernels,anubhavgoyal10/logistic-regression-as-a-neural-network,Logistic Regression as a Neural Network,Anubhav Goyal,2022-11-16 03:18:51,28
+36,Neural-network-regression,kernels,sohaibanwaar1203/neural-network-keras-regression,Neural Network Keras Regression,Sohaib Anwaar,2019-03-29 14:29:49,4
+38,Neural-network-regression,kernels,guidosalimbeni/regression-with-convolutional-neural-network-keras,Regression with Convolutional Neural Network Keras,Guido Salimbeni,2019-10-23 06:46:15,11
+2,Correlation,kernels,paulorzp/gmean-of-low-correlation-lb-0-952x,GMEAN of low correlation (LB: 0.952x),Paulo Pinto,2019-09-19 01:22:33,225
+4,Correlation,kernels,dbarkhorn/crypto-correlation,Crypto-Correlation,DanBarkhorn,2017-09-11 00:12:54,50
+6,Correlation,kernels,jiweiliu/fast-pdf-calculation-with-correlation-matrix,Fast PDF calculation with correlation matrix,Jiwei Liu,2019-03-29 05:34:05,218
+8,Correlation,kernels,bbloggsbott/feature-selection-correlation-and-p-value,Feature Selection - Correlation and P-value,Vishal R,2022-04-25 06:47:12,82
+10,Correlation,kernels,wesamelshamy/high-correlation-feature-image-classification-conf,High Correlation Feature Image Classification Conf,Wesam Elshamy,2018-06-09 20:43:38,140
+12,Correlation,kernels,ravichaubey1506/student-performance-correlation,Student Performance Correlation,Ravi Chaubey,2020-03-23 03:12:45,45
+14,Correlation,kernels,selfishgene/filtering-and-auto-correlation-tutorial,Filtering and Auto-Correlation Tutorial,David Beniaguev,2018-01-05 22:15:02,69
+16,Correlation,kernels,rm1000/improved-amex-rank-ensemble,IMPROVED AMEX Rank Ensemble,RM1000,2022-07-27 13:32:20,22
+18,Correlation,kernels,rshah4/correlation-matrix-visualization,Correlation Matrix Visualization,Rajiv Shah,2015-07-28 00:13:41,26
+20,Correlation,kernels,frtgnn/predictive-power-score-vs-correlation,Predictive Power Score vs Correlation,Firat Gonen,2020-04-25 21:06:07,85
+22,Correlation,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+24,Correlation,kernels,kiyoung1027/correlation-pearson-spearman-and-kendall,"""Correlation (Pearson Spearman and Kendall)""",Rooney,2019-12-31 00:30:13,26
+26,Correlation,kernels,ryanholbrook/competition-metric-kendall-tau-correlation,Competition Metric - Kendall Tau Correlation,Ryan Holbrook,2022-05-15 10:19:50,58
+28,Correlation,kernels,tpmeli/insights-correlation-analysis-of-192-features,Insights + Correlation Analysis of 192 Features,tpmeli,2021-07-08 15:46:24,108
+30,Correlation,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+32,Correlation,kernels,dedecu/cross-correlation-time-lag-with-pandas,Cross-correlation (time-lag) with pandas,André Araújo,2018-04-11 01:18:14,29
+34,Correlation,kernels,chrisbss1/cramer-s-v-correlation-matrix,Cramer's V correlation matrix ,Christian D,2019-09-25 15:19:14,21
+36,Correlation,kernels,jbomitchell/spearman-correlation-of-public-models,Spearman Correlation of Public Models,John Mitchell,2022-12-12 23:09:19,45
+38,Correlation,kernels,joelwilson/election-correlation-matrix,Election Correlation Matrix,Joel Wilson,2017-01-04 18:37:22,16
+40,Correlation,kernels,antmarakis/another-cleaned-data-blend-with-low-correlation,Another Cleaned Data Blend With Low Correlation,Antonis Maronikolakis,2018-03-16 00:49:30,34
+2,Central-tendency,kernels,mejbahahammad/python-measuring-central-tendency,Python: Measuring Central Tendency,MEJBAH AHAMMAD,2020-08-31 19:34:30,12
+4,Central-tendency,kernels,jgroff/unit-2-central-tendency-and-variability,Unit 2 - Central Tendency and Variability,Jeff Groff,2017-12-16 13:48:57,5
+2,Central-tendency,kernels,mejbahahammad/python-measuring-central-tendency,Python: Measuring Central Tendency,MEJBAH AHAMMAD,2020-08-31 19:34:30,12
+4,Central-tendency,kernels,jgroff/unit-2-central-tendency-and-variability,Unit 2 - Central Tendency and Variability,Jeff Groff,2017-12-16 13:48:57,5
+2,Measures-of-Dispersion,kernels,pmarcelino/comprehensive-data-exploration-with-python,Comprehensive data exploration with Python,"""Pedro Marcelino PhD""",2022-04-30 19:20:37,12863
+2,Factor-analysis,kernels,ipravin/factor-analysis-and-linear-programming,Factor Analysis and Linear Programming,Pravin K,2019-03-19 16:53:25,26
+4,Factor-analysis,kernels,mathan/factor-analysis-on-match-statistics,Factor Analysis on Match Statistics,Mathan,2018-10-03 08:36:21,15
+6,Factor-analysis,kernels,ragnar123/exploratory-data-analysis-and-factor-model-idea,Exploratory Data Analysis and Factor Model Idea,Martin Kovacevic Buvinic,2020-02-19 21:45:23,44
+8,Factor-analysis,kernels,balabaskar/divorce-prediction-with-factor-analysis,Divorce prediction with Factor analysis,Bala Baskar,2021-12-25 14:49:18,38
+10,Factor-analysis,kernels,ikertxo1986/top-4-factor-analysis-ensemble,[Top %4] Factor analysis & Ensemble,Ikertxo :),2019-06-27 23:31:47,28
+12,Factor-analysis,kernels,alexandrehsd/binary-multiclass-classification-factor-analysis,Binary/Multiclass classification - Factor Analysis,Alexandre Henrique,2021-11-12 01:22:15,10
+2,Quartile-analysis,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+4,Quartile-analysis,kernels,yassineghouzam/titanic-top-4-with-ensemble-modeling,Titanic Top 4% with ensemble modeling,Yassine Ghouzam,2017-08-09 14:34:44,2735
+6,Quartile-analysis,kernels,shrutimechlearn/step-by-step-diabetes-classification-knn-detailed,Step by Step Diabetes Classification-KNN-detailed,Shruti_Iyyer,2020-10-31 14:07:34,889
+8,Quartile-analysis,kernels,henriqueyamahata/bank-marketing-classification-roc-f1-recall,"""Bank Marketing + Classification + ROC",F1,"RECALL...""",Henrique Yamahata
+10,Quartile-analysis,kernels,kanncaa1/dataiteam-titanic-eda,DataiTeam Titanic EDA,DATAI,2020-05-25 20:16:52,314
+12,Quartile-analysis,kernels,randylaosat/predicting-employee-kernelover,Predicting Employee Kernelover,randy lao,2018-01-05 03:42:27,510
+14,Quartile-analysis,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+16,Quartile-analysis,kernels,sudalairajkumar/where-do-people-learn-ml-ds,Where do People learn ML / DS?,SRK,2018-12-04 15:42:17,335
+18,Quartile-analysis,kernels,nareshbhat/outlier-the-silent-killer,Outlier!!! The Silent Killer,Naresha Bhat,2021-08-30 07:18:27,746
+20,Quartile-analysis,kernels,durgancegaur/a-guide-to-any-classification-problem,A Guide to any Classification Problem,Durgance Gaur,2022-02-15 19:13:48,275
+2,Decision-Trees-classification,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+4,Decision-Trees-classification,kernels,paultimothymooney/decision-trees-for-binary-classification-0-99,Decision Trees for Binary Classification (0.99),Paul Mooney,2018-03-02 17:28:31,40
+6,Decision-Trees-classification,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+8,Decision-Trees-classification,kernels,prashant111/decision-tree-classifier-tutorial,Decision-Tree Classifier Tutorial ,Prashant Banerjee,2020-03-13 12:46:21,425
+10,Decision-Trees-classification,kernels,macespinoza/classification-decision-trees-and-k-nearest,"""Classification Decision Trees and k Nearest""",Miguel Angel Cotrina Espinoza,2018-10-16 04:38:47,31
+12,Decision-Trees-classification,kernels,kashnitsky/topic-3-decision-trees-and-knn,Topic 3. Decision Trees and kNN,Yury Kashnitsky,2021-05-07 09:25:45,281
+14,Decision-Trees-classification,kernels,prashant111/random-forest-classifier-tutorial,Random Forest Classifier Tutorial,Prashant Banerjee,2020-03-13 12:46:34,189
+16,Decision-Trees-classification,kernels,joparga3/in-depth-skewed-data-classif-93-recall-acc-now,In depth skewed data classif. (93% recall acc now),joparga3,2016-12-17 09:03:25,763
+18,Decision-Trees-classification,kernels,dmilla/introduction-to-decision-trees-titanic-dataset,Introduction to Decision Trees (Titanic dataset),Diego Milla,2017-03-01 17:21:04,281
+2,Neural-network-classification,kernels,rajeshjnv/heart-disease-classification-neural-network,Heart Disease Classification - Neural Network,Rajesh kumar jha,2019-07-05 20:32:42,123
+4,Neural-network-classification,kernels,kanncaa1/deep-learning-tutorial-for-beginners,Deep Learning Tutorial for Beginners,DATAI,2019-05-25 14:42:24,2312
+6,Neural-network-classification,kernels,divyansh22/neural-network-for-li-ion-classification,Neural Network for Li-Ion Classification,Divyansh Agrawal,2020-11-27 06:05:56,40
+8,Neural-network-classification,kernels,kanncaa1/pytorch-tutorial-for-deep-learning-lovers,Pytorch Tutorial for Deep Learning Lovers,DATAI,2020-04-06 13:29:40,1321
+10,Neural-network-classification,kernels,poonaml/deep-neural-network-keras-way,Deep Neural Network Keras way,Poonam Ligade,2018-07-09 09:53:52,1057
+12,Neural-network-classification,kernels,tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert,Deep Learning For NLP: Zero To Transformers & BERT,Mr_KnowNothing,2020-04-13 17:19:49,1722
+14,Neural-network-classification,kernels,abhishek/approaching-almost-any-nlp-problem-on-kaggle,Approaching (Almost) Any NLP Problem on Kaggle,Abhishek Thakur,2020-07-22 06:02:35,2182
+16,Neural-network-classification,kernels,kanncaa1/convolutional-neural-network-cnn-tutorial,Convolutional Neural Network (CNN) Tutorial,DATAI,2020-10-29 12:24:11,809
+18,Neural-network-classification,kernels,cdeotte/25-million-images-0-99757-mnist,25 Million Images! [0.99757] MNIST,Chris Deotte,2021-08-29 19:32:05,708
+20,Neural-network-classification,kernels,hortonhearsafoo/fast-ai-v3-lesson-1,fast.ai v3 lesson 1,William Horton,2019-02-02 23:32:47,672
+22,Neural-network-classification,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+24,Neural-network-classification,kernels,kanncaa1/machine-learning-tutorial-for-beginners,Machine Learning Tutorial for Beginners,DATAI,2018-07-24 14:43:45,2342
+26,Neural-network-classification,kernels,huseinzol05/text-classification-recurrent-neural-network,Text Classification Recurrent Neural Network,Husein Zolkepli,2017-08-09 09:31:08,14
+28,Neural-network-classification,kernels,shivamb/cnn-architectures-vgg-resnet-inception-tl,"""CNN Architectures : VGG ResNet Inception + TL""",Shivam Bansal,2018-10-29 10:56:18,694
+30,Neural-network-classification,kernels,arslanali4343/heart-disease-classification-neural-network,Heart Disease Classification - Neural Network,Arslan Ali,2021-03-31 18:43:16,75
+32,Neural-network-classification,kernels,jhoward/is-it-a-bird-creating-a-model-from-your-own-data,Is it a bird? Creating a model from your own data,Jeremy Howard,2022-08-15 20:20:12,1897
+34,Neural-network-classification,kernels,azzion/iris-data-set-classification-using-neural-network,Iris Data Set Classification using Neural Network,David Joy,2018-01-27 08:47:55,10
+36,Neural-network-classification,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+38,Neural-network-classification,kernels,kakauandme/tensorflow-deep-nn,TensorFlow deep NN,Kirill Kliavin,2016-02-23 04:33:52,666
+40,Neural-network-classification,kernels,vincee/intel-image-classification-cnn-keras,Intel Image Classification (CNN - Keras),Vincent Liu,2020-03-14 10:44:42,281
+2,Nearest-Neighbors,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+4,Nearest-Neighbors,kernels,jmataya/k-nearest-neighbors-classifier,k-Nearest Neighbors Classifier,jmataya,2017-06-27 16:55:52,11
+6,Nearest-Neighbors,kernels,zohaib123/telecusts-prediction-k-nearest-neighbors,TeleCusts Prediction K-Nearest Neighbors ,Zohaib Ahmed,2021-01-17 03:32:35,48
+8,Nearest-Neighbors,kernels,khotijahs1/k-nearest-neighbors-will-it-rain-tomorrow,K-nearest Neighbors :  Will it Rain Tomorrow?,Siti Khotijah,2020-10-02 07:40:55,23
+10,Nearest-Neighbors,kernels,codeblogger/k-nearest-neighbors-knn-classification-75-25,K-Nearest Neighbors (KNN) Classification (75.25%)),Furkan Gulsen,2020-05-15 00:20:26,26
+2,Inferential-analysis,kernels,ravichaubey1506/inferential-statistical-analysis-on-diabetes-data,Inferential Statistical Analysis on Diabetes Data,Ravi Chaubey,2022-02-16 14:34:55,118
+4,Inferential-analysis,kernels,shreyasajal/inferential-statistics-on-heart-attack-analysis,Inferential Statistics on Heart Attack Analysis ,Shreya Sajal,2021-04-09 03:25:43,53
+6,Inferential-analysis,kernels,saurav9786/cardiogoodfitness-descriptive-statistics,CardioGoodFitness - Descriptive Statistics,Saurav Anand,2022-11-02 09:57:50,61
+8,Inferential-analysis,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+10,Inferential-analysis,kernels,ekrembayar/a-b-testing-step-by-step-hypothesis-testing,A/B Testing: Step by Step & Hypothesis Testing,Ekrem Bayar,2021-11-30 12:54:32,190
+12,Inferential-analysis,kernels,ravichaubey1506/multivariate-statistical-analysis-on-diabetes,Multivariate Statistical Analysis on Diabetes,Ravi Chaubey,2020-08-10 13:49:52,117
+14,Inferential-analysis,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+16,Inferential-analysis,kernels,suzanaiacob/inferential-analysis-of-toothgrowth-in-guineapigs,Inferential Analysis of ToothGrowth in GuineaPigs,Suzana Iacob,2018-11-15 21:24:42,11
+18,Inferential-analysis,kernels,ravichaubey1506/machine-learning-predictive-modeling-analytics,Machine Learning & Predictive Modeling Analytics,Ravi Chaubey,2020-04-16 11:49:38,120
+20,Inferential-analysis,kernels,hamelg/python-for-data-analysis-index,Python for Data Analysis: Index,Greg Hamel,2020-09-29 02:39:06,97
+22,Inferential-analysis,kernels,ravichaubey1506/univariate-statistical-analysis-on-diabetes,Univariate Statistical Analysis on Diabetes,Ravi Chaubey,2020-05-06 07:10:12,97
+24,Inferential-analysis,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+26,Inferential-analysis,kernels,gleissonbispo/inferential-statistics-nba-salaries-analysis,Inferential Statistics - NBA Salaries Analysis,Gleisson Bispo,2019-05-06 20:16:38,2
+28,Inferential-analysis,kernels,yashvi/practical-statistics-1-descriptive-statistics,Practical Statistics - 1 (Descriptive Statistics),Yashvi Patel,2020-07-27 12:09:28,62
+30,Inferential-analysis,kernels,tsilveira/inferential-statistics-and-hypothesis-testing,Inferential statistics  and hypothesis testing,TSilveira,2018-07-13 04:02:39,31
+32,Inferential-analysis,kernels,knightbearr/regression-taxi-trip-duration-knightbearr,Regression: Taxi Trip Duration (Knightbearr),Knightbearr,2021-12-31 19:59:53,17
+34,Inferential-analysis,kernels,knightbearr/analysis-shopping-cart-data-knightbearr,Analysis: Shopping Cart Data (Knightbearr),Knightbearr,2022-11-20 06:46:51,66
+36,Inferential-analysis,kernels,mgmarques/wines-type-and-quality-classification-exercises,Wines Type and Quality Classification Exercises,Marcelo Marques,2018-10-24 21:58:53,80
+2,R-data-visualization,kernels,antoniolopez/iris-data-visualization-with-r,Iris data visualization with R,Antonio Lopez,2017-10-27 02:43:15,36
+4,R-data-visualization,kernels,xingobar/data-visualization-with-r,Data Visualization with R,Gary Ng,2016-11-09 10:53:37,14
+6,R-data-visualization,kernels,muslump/data-visualization-with-r,Data Visualization with R,Muslum Polat,2020-12-28 13:26:30,16
+8,R-data-visualization,kernels,mrisdal/exploring-survival-on-the-titanic,Exploring Survival on the Titanic,Meg Risdal,2017-12-26 19:42:24,3744
+10,R-data-visualization,kernels,jessemostipak/dive-into-dplyr-tutorial-1,Dive into dplyr (tutorial #1),Jesse Mostipak,2020-10-14 15:40:50,1915
+12,R-data-visualization,kernels,rtatman/getting-started-in-r-first-steps,Getting staRted in R: First Steps,Rachael Tatman,2017-12-01 21:49:24,2288
+14,R-data-visualization,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+16,R-data-visualization,kernels,ldfreeman3/a-data-science-framework-to-achieve-99-accuracy,A Data Science Framework: To Achieve 99% Accuracy,LD Freeman,2017-12-31 18:27:17,5295
+18,R-data-visualization,kernels,kanncaa1/seaborn-tutorial-for-beginners,Seaborn Tutorial for Beginners,DATAI,2020-01-28 17:54:17,1074
+20,R-data-visualization,kernels,xvivancos/market-basket-analysis,Market Basket Analysis ,Xavier,2022-12-04 12:55:54,612
+22,R-data-visualization,kernels,hiteshp/head-start-for-data-scientist,Head Start for Data Scientist,Hitesh palamada,2018-09-02 18:36:19,1091
+24,R-data-visualization,kernels,shivamb/data-science-glossary-on-kaggle,Data Science Glossary on Kaggle,Shivam Bansal,2018-12-10 09:47:14,2141
+26,R-data-visualization,kernels,erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda,"""House prices: Lasso XGBoost and a detailed EDA""",Erik Bruin,2018-05-10 06:33:09,1477
+28,R-data-visualization,kernels,benroshan/part-4-data-visualization-with-r,Part 4:Data Visualization with R,Ben Roshan ,2020-05-18 13:27:25,10
+30,R-data-visualization,kernels,kushal1996/customer-segmentation-k-means-analysis,Customer Segmentation (K-Means) | Analysis,Kushal Mahindrakar,2022-10-11 13:29:58,897
+32,R-data-visualization,kernels,kanncaa1/plotly-tutorial-for-beginners,Plotly Tutorial for Beginners,DATAI,2019-10-01 20:59:55,1378
+34,R-data-visualization,kernels,imdevskp/covid-19-analysis-visualization-comparisons,"""COVID-19 - Analysis Visualization & Comparisons""",Devakumar K. P.,2020-06-19 15:51:01,1779
+36,R-data-visualization,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+38,R-data-visualization,kernels,davids1992/speech-representation-and-data-exploration,Speech representation and data exploration,DavidS,2017-12-11 21:17:15,1035
+40,R-data-visualization,kernels,thykhuely/mercari-interactive-eda-topic-modelling,Mercari Interactive EDA + Topic Modelling,ThyKhueLy,2018-04-22 08:23:34,915
+2,Python-data-visualization,kernels,jchen2186/data-visualization-with-python-seaborn,Data Visualization with Python Seaborn,Jane,2017-07-30 05:04:25,41
+4,Python-data-visualization,kernels,ashfakyeafi/data-visualization-with-python,DATA VISUALIZATION with Python,Ashfak Yeafi,2022-07-01 08:44:57,53
+6,Python-data-visualization,kernels,andersonmatias/final-assignment-data-visualization-with-python,Final Assignment - Data Visualization with Python ,"""Anderson Matias PMP""",2020-08-20 08:38:05,9
+8,Python-data-visualization,kernels,kanncaa1/data-sciencetutorial-for-beginners,Data ScienceTutorial for Beginners,DATAI,2020-05-19 00:29:44,6250
+10,Python-data-visualization,kernels,benhamner/python-data-visualizations,Python Data Visualizations,Ben Hamner,2017-08-29 15:54:22,1383
+12,Python-data-visualization,kernels,nathanlauga/vietnam-war-data-visualization-with-python,Vietnam War : Data Visualization with Python,Nathan Lauga,2018-03-05 16:24:47,15
+14,Python-data-visualization,kernels,abhishekkrg/python-iris-data-visualization-and-explanation,Python - IRIS Data visualization and explanation,Abhishek Gupta,2018-01-07 12:17:05,7
+16,Python-data-visualization,kernels,kanncaa1/feature-selection-and-data-visualization,Feature Selection and Data Visualization,DATAI,2021-07-10 16:05:36,1689
+18,Python-data-visualization,kernels,dssant85/tutorial-on-data-visualization-by-python,Tutorial on Data Visualization by Python,Santosh Kumar,2021-03-09 08:19:16,15
+20,Python-data-visualization,kernels,kanncaa1/seaborn-tutorial-for-beginners,Seaborn Tutorial for Beginners,DATAI,2020-01-28 17:54:17,1074
+22,Python-data-visualization,kernels,tasneemabdulrahim/array-processing-in-python-data-visualization,Array processing in python data visualization.,Tasneem Abdul Rahim,2021-03-07 04:38:28,17
+2,Power-BI,kernels,nalkrolu/power-bi-report-with-plotly,Power BI Report with Plotly,Unal KOROGLU,2022-10-04 12:46:34,11
+4,Power-BI,kernels,justjun0321/way-to-google-get-a-job-in-goggle-word-cloud,Way to Google - Get a job in Goggle (Word Cloud),Wei Chun Chang,2020-09-03 05:42:51,186
+2,Tableau,kernels,pavansanagapati/tableau-intro-use-cases,Tableau Intro & Use Cases!!!!,Pavan Sanagapati,2020-08-02 17:26:05,122
+4,Tableau,kernels,nikhilncr/eda-using-tableau-visualizations,EDA using Tableau Visualizations,Nikhil C R,2018-04-24 05:00:00,57
+6,Tableau,kernels,xvivancos/data-breaches-tableau-visualization,Data Breaches Tableau Visualization,Xavier,2022-11-27 12:20:07,105
+8,Tableau,kernels,lidlurch/visualization-using-tableau,Visualization using Tableau,Zach Loertscher,2017-10-26 22:20:30,30
+10,Tableau,kernels,pavansanagapati/eda-using-tableau-visualisation,EDA using Tableau Visualisation !!!,Pavan Sanagapati,2020-06-15 13:17:52,49
+2,Seaborn,kernels,alexisbcook/hello-seaborn,"""Hello Seaborn""",Alexis Cook,2022-06-09 00:35:16,734
+4,Seaborn,kernels,kanncaa1/seaborn-tutorial-for-beginners,Seaborn Tutorial for Beginners,DATAI,2020-01-28 17:54:17,1074
+6,Seaborn,kernels,residentmario/plotting-with-seaborn,Plotting with seaborn,Aleksey Bilogur,2018-09-19 21:36:58,305
+8,Seaborn,kernels,residentmario/faceting-with-seaborn,Faceting with seaborn,Aleksey Bilogur,2018-04-16 22:20:52,195
+10,Seaborn,kernels,saurav9786/seaborn-tutorial,Seaborn Tutorial ,Saurav Anand,2022-07-23 16:01:35,120
+12,Seaborn,kernels,themlphdstudent/cheat-sheet-seaborn-charts,Cheat Sheet: Seaborn Charts,The ML PhD Student,2021-01-26 06:02:08,235
+14,Seaborn,kernels,kralmachine/seaborn-tutorial-for-beginners,Seaborn Tutorial  For Beginners,KraLMachine,2019-08-24 06:38:23,243
+16,Seaborn,kernels,ndrewgele/visualizing-pok-mon-stats-with-seaborn,Visualizing Pokémon Stats with Seaborn,Andrew Gelé,2016-08-30 18:29:25,221
+18,Seaborn,kernels,jsaguiar/exploratory-analysis-with-seaborn,Exploratory Analysis with Seaborn,Aguiar,2018-10-13 21:43:37,117
+20,Seaborn,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+22,Seaborn,kernels,kashnitsky/topic-2-part-2-seaborn-and-plotly,Topic 2. Part 2. Seaborn and Plotly,Yury Kashnitsky,2021-05-07 08:36:00,191
+24,Seaborn,kernels,dejavu23/titanic-survival-seaborn-and-ensembles,Titanic Survival: Seaborn and Ensembles,deja vu,2019-07-29 10:06:07,138
+26,Seaborn,kernels,alexisbcook/exercise-hello-seaborn,"""Exercise: Hello Seaborn""",Alexis Cook,2022-01-13 21:17:13,4
+28,Seaborn,kernels,neilslab/seaborn-visualization,Seaborn Visualization,NeilS,2017-06-24 17:45:48,45
+30,Seaborn,kernels,prashant111/seaborn-tutorial-for-beginners,Seaborn tutorial for beginners,Prashant Banerjee,2019-12-30 08:22:08,114
+32,Seaborn,kernels,ravichaubey1506/hands-on-complete-data-visualization-with-seaborn,Hands-On Complete Data Visualization with Seaborn,Ravi Chaubey,2022-02-15 15:48:35,180
+2,Bokeh,kernels,kanncaa1/visualization-bokeh-tutorial-part-1,Visualization: Bokeh Tutorial Part 1,DATAI,2018-05-26 21:54:19,299
+4,Bokeh,kernels,kanncaa1/interactive-bokeh-tutorial-part-2,Interactive Bokeh Tutorial Part 2,DATAI,2018-07-09 20:38:05,179
+6,Bokeh,kernels,pavansanagapati/pandas-bokeh-visualization-tutorial,Pandas Bokeh  Visualization Tutorial,Pavan Sanagapati,2020-07-05 01:20:21,134
+2,Plotly,kernels,kanncaa1/plotly-tutorial-for-beginners,Plotly Tutorial for Beginners,DATAI,2019-10-01 20:59:55,1378
+4,Plotly,kernels,hakkisimsek/plotly-tutorial-1,PLOTLY TUTORIAL - 1,Hakki Kaan Simsek,2019-01-13 17:06:49,190
+6,Plotly,kernels,kanncaa1/earthquake-animation-with-plotly,Earthquake Animation with Plotly,DATAI,2019-12-08 11:15:26,231
+8,Plotly,kernels,residentmario/introduction-to-plotly-optional,Introduction to plotly (Optional),Aleksey Bilogur,2018-03-16 17:57:35,117
+10,Plotly,kernels,thebrownviking20/intermediate-visualization-tutorial-using-plotly,Intermediate visualization tutorial using Plotly ,Siddharth Yadav,2020-04-10 08:48:49,259
+12,Plotly,kernels,arthurtok/decision-boundaries-visualised-via-python-plotly,Decision Boundaries visualised via Python & Plotly,Anisotropic,2018-09-23 22:23:25,296
+14,Plotly,kernels,arthurtok/generation-unemployed-interactive-plotly-visuals,Generation Unemployed? Interactive Plotly Visuals,Anisotropic,2018-10-12 21:57:52,234
+16,Plotly,kernels,vincentlugat/lightgbm-plotly,LightGBM + Plotly,Vincent Lugat,2019-04-07 10:20:11,83
+18,Plotly,kernels,aashita/guide-to-animated-bubble-charts-using-plotly,Guide to Animated Bubble Charts using Plotly,Aashita Kesarwani,2019-03-25 17:31:27,325
+20,Plotly,kernels,kashnitsky/topic-2-part-2-seaborn-and-plotly,Topic 2. Part 2. Seaborn and Plotly,Yury Kashnitsky,2021-05-07 08:36:00,191

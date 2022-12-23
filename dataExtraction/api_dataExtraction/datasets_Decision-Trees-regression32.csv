@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Decision-Trees-regression,datasets,kashnitsky/mlcourse,mlcourse.ai,51MB,2018-12-09 16:45:09,35690,1518,0.88235295
+4,Decision-Trees-regression,datasets,moneystore/agencyperformance,Insurance Data,5MB,2016-12-02 12:13:42,8124,120,0.7058824
+6,Decision-Trees-regression,datasets,zurfer/rtb,Real Time Bidding,138MB,2017-02-27 18:21:27,2141,63,0.7352941
+8,Decision-Trees-regression,datasets,mariosfish/default-of-credit-card-clients,Default of credit card clients,1005KB,2019-09-19 11:04:27,2558,40,0.7941176
+10,Decision-Trees-regression,datasets,ayanzadeh93/color-classification,color classification,161MB,2018-04-20 00:13:09,2376,56,0.875
+12,Decision-Trees-regression,datasets,emirhanai/machine-learning-tutorials-example-projects-ai,Machine Learning Tutorials - Example Projects - AI,1GB,2022-10-20 22:31:07,444,39,1.0
+14,Decision-Trees-regression,datasets,rashikrahmanpritom/177k-english-song-data-from-20082017,17.7K English song data from 2008-2017,599KB,2021-03-21 06:50:13,490,30,0.9705882
+16,Decision-Trees-regression,datasets,aslanahmedov/predict-term-deposit,Predict Term Deposit,575KB,2021-11-29 11:36:06,962,25,1.0
+18,Decision-Trees-regression,datasets,jofrantoba/practice-logistic-regression-and-decision-trees,practice logistic regression and decision trees,10KB,2021-05-28 21:40:39,43,2,0.29411766
+20,Decision-Trees-regression,datasets,smartpunchteam/boxpunch-dataset,Boxpunch dataset,37MB,2019-05-27 13:54:12,173,7,0.8125
+22,Decision-Trees-regression,datasets,prashant111/ionosphere,Ionosphere,34KB,2020-03-15 09:36:02,1240,45,0.5294118
+24,Decision-Trees-regression,datasets,bpkapkar/steel-plates-faults-detection,Steel Plates Faults Detection,103KB,2020-12-06 08:11:48,213,11,0.4117647
+26,Decision-Trees-regression,datasets,ictinstitute/utrecht-fairness-recruitment-dataset,Utrecht Fairness Recruitment dataset,44KB,2022-10-05 17:31:28,86,3,0.9411765
+28,Decision-Trees-regression,datasets,dzikrifaizziyan/haberman-dataset,Haberman Dataset,3KB,2021-06-11 10:35:10,189,3,0.7058824
+30,Decision-Trees-regression,datasets,owenagius/inertia-sensors-for-human-activity-recognition,Inertia Sensors for Human Activity Recognition,5MB,2021-06-30 18:23:08,283,16,0.9411765
+32,Decision-Trees-regression,datasets,ruthvikrajamv/computed-tomography-ct-diagnosis-of-covid19,Computed Tomography (CT) Diagnosis of COVID-19,89MB,2021-07-24 06:43:03,83,3,0.5
+34,Decision-Trees-regression,datasets,mariajmraidy/datasets-for-sentiment-analysis-of-arabizi,Datasets for sentiment analysis of arabizi tweets,198KB,2020-06-23 16:40:49,247,4,0.7352941
+36,Decision-Trees-regression,datasets,ictinstitute/utrecht-housing-dataset,Utrecht housing dataset,73KB,2022-08-15 12:13:00,80,5,0.9705882
+38,Decision-Trees-regression,datasets,krantiswalke/bankfullcsv,bank-full.csv (Ensemble Techniques),481KB,2020-04-23 08:21:57,3867,31,0.64705884
+40,Decision-Trees-regression,datasets,thedevastator/improve-breast-cancer-prognostics-using-machine,Breast Cancer Prognostics,77KB,2022-12-04 12:55:32,60,5,0.9411765

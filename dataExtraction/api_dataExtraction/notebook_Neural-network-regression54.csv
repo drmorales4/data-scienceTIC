@@ -1,0 +1,20 @@
+,topic,set,ref,title,author,lastRunTime,totalVotes
+2,Neural-network-regression,kernels,kanncaa1/deep-learning-tutorial-for-beginners,Deep Learning Tutorial for Beginners,DATAI,2019-05-25 14:42:24,2312
+4,Neural-network-regression,kernels,matthieubritoantunes/convolutional-neural-network-for-image-regression,Convolutional Neural Network for Image Regression,antounes,2022-01-05 16:41:34,17
+6,Neural-network-regression,kernels,kanncaa1/pytorch-tutorial-for-deep-learning-lovers,Pytorch Tutorial for Deep Learning Lovers,DATAI,2020-04-06 13:29:40,1321
+8,Neural-network-regression,kernels,janiobachmann/credit-fraud-dealing-with-imbalanced-datasets,Credit Fraud  || Dealing with Imbalanced Datasets,Janio Martinez Bachmann,2019-07-03 23:04:48,4312
+10,Neural-network-regression,kernels,kanncaa1/machine-learning-tutorial-for-beginners,Machine Learning Tutorial for Beginners,DATAI,2018-07-24 14:43:45,2342
+12,Neural-network-regression,kernels,shivamb/data-science-glossary-on-kaggle,Data Science Glossary on Kaggle,Shivam Bansal,2018-12-10 09:47:14,2141
+14,Neural-network-regression,kernels,abhishek/approaching-almost-any-nlp-problem-on-kaggle,Approaching (Almost) Any NLP Problem on Kaggle,Abhishek Thakur,2020-07-22 06:02:35,2182
+16,Neural-network-regression,kernels,startupsci/titanic-data-science-solutions,Titanic Data Science Solutions,Manav Sehgal,2019-02-11 01:21:23,9434
+18,Neural-network-regression,kernels,kanncaa1/recurrent-neural-network-with-pytorch,Recurrent Neural Network with Pytorch,DATAI,2020-04-07 14:11:12,349
+20,Neural-network-regression,kernels,kakauandme/tensorflow-deep-nn,TensorFlow deep NN,Kirill Kliavin,2016-02-23 04:33:52,666
+22,Neural-network-regression,kernels,prathamtripathi/regression-neural-network,Regression-Neural-Network,Pratham Tripathi,2020-08-21 06:43:04,9
+24,Neural-network-regression,kernels,areeshaary/regression-using-artificial-neural-networks,Regression using Artificial Neural Networks ,Areesha Anjum,2021-12-26 19:01:11,9
+26,Neural-network-regression,kernels,,[Private Notebook],,2010-04-01 00:00:00,0
+28,Neural-network-regression,kernels,ryanholbrook/a-single-neuron,A Single Neuron,Ryan Holbrook,2022-05-05 17:51:27,214
+30,Neural-network-regression,kernels,faressayah/practical-introduction-to-10-regression-algorithm,Practical Introduction to 10 Regression Algorithm,Fares Sayah,2022-01-20 13:43:02,707
+32,Neural-network-regression,kernels,mejbahahammad/recurrent-neural-network-regression,Recurrent Neural Network : Regression,MEJBAH AHAMMAD,2020-08-29 18:36:57,19
+34,Neural-network-regression,kernels,anubhavgoyal10/logistic-regression-as-a-neural-network,Logistic Regression as a Neural Network,Anubhav Goyal,2022-11-16 03:18:51,28
+36,Neural-network-regression,kernels,sohaibanwaar1203/neural-network-keras-regression,Neural Network Keras Regression,Sohaib Anwaar,2019-03-29 14:29:49,4
+38,Neural-network-regression,kernels,guidosalimbeni/regression-with-convolutional-neural-network-keras,Regression with Convolutional Neural Network Keras,Guido Salimbeni,2019-10-23 06:46:15,11

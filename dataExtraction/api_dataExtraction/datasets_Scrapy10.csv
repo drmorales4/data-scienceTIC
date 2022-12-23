@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Scrapy,datasets,gauthamp10/google-playstore-apps,Google Play Store Apps,207MB,2021-06-17 12:04:06,17781,351,1.0
+4,Scrapy,datasets,usernam3/shopify-app-store,Shopify app store,71MB,2022-06-05 20:19:32,4846,132,1.0
+6,Scrapy,datasets,shreyaspj/android-devices-and-mobiles,Android devices and mobiles,30KB,2020-08-20 18:02:22,363,19,0.5882353
+8,Scrapy,datasets,cyaris/2016-mlb-season,2016 MLB Season,237KB,2018-04-21 18:26:56,2380,37,0.8235294
+10,Scrapy,datasets,sagunsh/fifa-20-complete-player-dataset,FIFA 20 Complete Player Dataset,2MB,2019-10-05 16:33:26,1161,26,0.9117647
+12,Scrapy,datasets,jeugregg/covid19-data-scrapy-for-france-south-korea,COVID-19 Data & scrapy for France South Korea,6MB,2021-08-22 07:15:33,35,2,0.8235294
+14,Scrapy,datasets,tornikeonoprishvili/tbilisi-housing-challenge-2020,Tbilisi Housing Challenge 2020,7MB,2020-11-24 12:07:42,487,8,0.9705882
+16,Scrapy,datasets,sp1thas/book-depository-dataset,Book Depository Dataset,409MB,2021-10-05 11:38:40,1804,42,0.9411765
+18,Scrapy,datasets,shreyaspj/restaurants-in-bangalore,Restaurants in Bangalore,467KB,2020-08-15 07:10:50,117,19,0.4117647
+20,Scrapy,datasets,aavigan/house-of-representatives-congress-116,The 116th U.S. House of Representatives ,2MB,2019-12-09 18:48:25,319,4,0.9705882
+22,Scrapy,datasets,hhllcks/snldb,Saturday Night Live,816KB,2021-04-15 11:13:34,1105,34,0.5882353
+24,Scrapy,datasets,muhammedabdulazeem/amazon-electronics-items-reviews,Amazon Electronic Items reviews,29MB,2021-05-18 11:13:02,299,16,0.9411765
+26,Scrapy,datasets,muhammedabdulazeem/500k-stackoverflow-questions,500K+ Stackoverflow questions,49MB,2021-03-25 12:22:52,108,15,0.7647059
+28,Scrapy,datasets,gauthamp10/apple-appstore-apps,Apple AppStore Apps,117MB,2021-10-14 07:28:30,1612,27,0.85294116
+30,Scrapy,datasets,spideysloth/pakwheels-cars-dataset,Pakistan Used Cars for Sale,3MB,2020-07-11 23:52:45,393,12,0.9411765
+32,Scrapy,datasets,sachsene/amazons-advertisements,Amazon Advertisements,161MB,2020-03-17 12:45:01,492,16,1.0
+34,Scrapy,datasets,artemkorottchenko/used-aircraft-pricing,Aircraft Pricing Dataset,86KB,2020-07-15 17:50:57,318,10,0.8235294
+36,Scrapy,datasets,cyaris/charities-in-the-united-states,Charities in the United States,1MB,2018-04-22 22:49:25,269,10,0.64705884
+38,Scrapy,datasets,eliasdabbas/seocrawldatasets,SEO Crawl Datasets,212MB,2020-11-20 17:26:52,186,9,0.9117647
+40,Scrapy,datasets,batuhanavakado/tbmm-vekil-performans-istatistikleri,27th TBMM Member of Parliaments Performance Stats,174KB,2022-07-15 21:15:49,5,8,0.7941176

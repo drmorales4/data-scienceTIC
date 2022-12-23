@@ -1,0 +1,21 @@
+,topic,set,ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+2,Google-colab,datasets,wyattowalsh/basketball,Basketball Dataset,349MB,2021-09-15 03:38:00,11077,340,0.9411765
+4,Google-colab,datasets,timoboz/python-data-science-handbook,Python Data Science Handbook,15MB,2021-12-20 07:06:52,3443,448,0.9375
+6,Google-colab,datasets,prakharrathi25/google-play-store-reviews,Google Play Store Reviews,3MB,2020-12-24 08:17:02,1694,25,1.0
+8,Google-colab,datasets,davidbroberts/cxr-anatomy-detection,CXR anatomy detection,13MB,2021-07-13 16:04:30,57,11,1.0
+10,Google-colab,datasets,shravanc/kannada-covid19-sentiment-analysis-dataset,Kannada Covid-19 Sentiment Analysis Dataset,33MB,2020-09-08 10:35:29,221,9,0.7058824
+12,Google-colab,datasets,mathurinache/colabcode,colabcode,6KB,2020-09-10 06:27:08,15,10,0.8125
+14,Google-colab,datasets,thegupta/ted-talk,TED Talk,27MB,2020-06-24 17:09:23,584,12,1.0
+16,Google-colab,datasets,prashantarorat/images-siim-512x512,siim-isic-jpeg-images-512x512,3GB,2020-06-22 09:53:12,138,11,0.6875
+18,Google-colab,datasets,surajghuwalewala/siim-covid19-detection-data,SIIM-FISABIO-RSNA COVID-19 Detection Data,3GB,2021-05-20 14:14:41,167,10,0.88235295
+20,Google-colab,datasets,kozistr/efficientnetv2-pretrained-models,efficientnetv2_pretrained_models,2GB,2021-06-06 09:24:34,12,9,0.8125
+22,Google-colab,datasets,jkreddy/gld20gb,gld20GB,20GB,2020-09-24 13:55:25,52,3,0.64705884
+24,Google-colab,datasets,dsailajashankar/covid19-datasets,COVID-19 Data Analysis and Visualization,506KB,2021-02-04 18:23:30,55,2,0.88235295
+26,Google-colab,datasets,innominate817/hagrid-classification-512p,HaGRID Classification 512p,12GB,2022-10-02 22:16:01,24,2,0.875
+28,Google-colab,datasets,markunys/sartorius-google-colab2,sartorius google colab2,3GB,2021-12-12 14:28:06,0,1,0.25
+30,Google-colab,datasets,innominate817/hagrid-sample-120k-384p,HaGRID Sample 120k 384p,3GB,2022-09-08 00:56:51,50,7,0.875
+32,Google-colab,datasets,geninhu/scikitlearn-v-0222post1,scikit-learn v 0.22.2.post1,7MB,2021-11-06 11:47:46,2,3,0.75
+34,Google-colab,datasets,fariziluzman/catsdogs-pickle,Cats&Dogs (Pickle),216MB,2020-02-27 12:23:13,27,1,0.3125
+36,Google-colab,datasets,rodrigolaguna/clean-dirty-containers-in-montevideo,Clean dirty containers in Montevideo,3GB,2021-08-21 22:56:21,239,16,0.75
+38,Google-colab,datasets,innominate817/hagrid-sample-30k-384p,HaGRID Sample 30k 384p,823MB,2022-09-08 00:36:55,85,7,0.875
+40,Google-colab,datasets,ceshine/big-transfer-bit-models-npz,Big Transfer (BiT) Models (.npz),4GB,2021-01-25 09:53:51,1,2,0.625
