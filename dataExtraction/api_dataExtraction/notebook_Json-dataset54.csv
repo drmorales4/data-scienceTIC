@@ -1,9 +1,0 @@
-,topic,set,ref,title,author,lastRunTime,totalVotes
-2,Json-dataset,kernels,coldfir3/simple-yolox-dataset-generator-coco-json,Simple YoloX Dataset Generator (COCO-JSON),Adriano Passos,2021-12-11 16:01:11,45
-4,Json-dataset,kernels,ll490187880/download-dataset-from-json-py3,Download dataset from json(py3),Lei,2019-04-02 07:34:15,11
-6,Json-dataset,kernels,arunprathap/openvaccine-json-dataset-to-csv-dataset,OpenVaccine: JSON Dataset to CSV Dataset,Arun P R,2020-09-17 11:00:58,9
-8,Json-dataset,kernels,jhoward/is-it-a-bird-creating-a-model-from-your-own-data,Is it a bird? Creating a model from your own data,Jeremy Howard,2022-08-15 20:20:12,1897
-10,Json-dataset,kernels,sudalairajkumar/simple-exploration-baseline-ga-customer-revenue,Simple Exploration+Baseline - GA Customer Revenue,SRK,2018-09-25 12:47:47,1046
-12,Json-dataset,kernels,imdevskp/covid-19-analysis-visualization-comparisons,"""COVID-19 - Analysis Visualization & Comparisons""",Devakumar K. P.,2020-06-19 15:51:01,1779
-14,Json-dataset,kernels,dgunning/cord-research-engine-search-and-similarity,CORD Research Engine - Search and Similarity,DwightGunning,2020-05-15 23:57:50,475
-16,Json-dataset,kernels,remekkinas/yolox-training-pipeline-cots-dataset-lb-0-507,YoloX training pipeline COTS dataset [LB 0.507] !!,Remek Kinas,2021-12-02 11:42:35,433

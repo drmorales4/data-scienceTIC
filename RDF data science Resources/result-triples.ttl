@@ -1,0 +1,257 @@
+@base <http://www.utpl.edu.ec/dsdata/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<Data_science_concepts> a skos:Concept;
+  rdfs:label "Data science concepts" .
+
+<Data_scientist> a skos:Concept;
+  rdfs:label "Data scientist";
+  skos:broader <Data_science_concepts> .
+
+<Big_data_concepts> a skos:Concept;
+  rdfs:label "Big data concepts";
+  skos:broader <Data_science_concepts> .
+
+<Data_mining_concepts> a skos:Concept;
+  rdfs:label "Data mining concepts";
+  skos:broader <Data_science_concepts> .
+
+<Machine_learning_algorithms> a skos:Concept;
+  rdfs:label "Machine learning algorithms";
+  skos:broader <Data_science_concepts> .
+
+<Data_science_tools> a skos:Concept;
+  rdfs:label "Data science tools" .
+
+<Google_colab> a skos:Concept;
+  rdfs:label "Google colab";
+  skos:broader <Data_science_tools> .
+
+<Jupyter_notebook> a skos:Concept;
+  rdfs:label "Jupyter notebook";
+  skos:broader <Data_science_tools> .
+
+<Kaggle_Notebook> a skos:Concept;
+  rdfs:label "Kaggle Notebook";
+  skos:broader <Data_science_tools> .
+
+<Github> a skos:Concept;
+  rdfs:label "Github";
+  skos:broader <Data_science_tools> .
+
+<Data_extraction> a skos:Concept;
+  rdfs:label "Data extraction" .
+
+<Rest_API> a skos:Concept;
+  rdfs:label "Rest API";
+  skos:broader <Data_extraction> .
+
+<Scrapy> a skos:Concept;
+  rdfs:label "Scrapy";
+  skos:broader <Data_extraction> .
+
+<Metadata> a skos:Concept;
+  rdfs:label "Metadata";
+  skos:broader <Data_extraction> .
+
+<Data_storage> a skos:Concept;
+  rdfs:label "Data storage" .
+
+<Data_quality> a skos:Concept;
+  rdfs:label "Data quality";
+  skos:broader <Data_storage> .
+
+<Data_management> a skos:Concept;
+  rdfs:label "Data management";
+  skos:broader <Data_storage> .
+
+<Data_manipulation> a skos:Concept;
+  rdfs:label "Data manipulation" .
+
+<Csv_dataset> a skos:Concept;
+  rdfs:label "Csv dataset";
+  skos:broader <Data_manipulation> .
+
+<Json_dataset> a skos:Concept;
+  rdfs:label "Json dataset";
+  skos:broader <Data_manipulation> .
+
+<Txt_dataset> a skos:Concept;
+  rdfs:label "Txt dataset";
+  skos:broader <Data_manipulation> .
+
+<Data_types> a skos:Concept;
+  rdfs:label "Data types";
+  skos:broader <Data_manipulation> .
+
+<Numerical_data> a skos:Concept;
+  rdfs:label "Numerical data";
+  skos:broader <Data_manipulation> .
+
+<Categorical_variables> a skos:Concept;
+  rdfs:label "Categorical variables";
+  skos:broader <Data_manipulation> .
+
+<Data_preprocessing> a skos:Concept;
+  rdfs:label "Data preprocessing" .
+
+<Missing_values> a skos:Concept;
+  rdfs:label "Missing values";
+  skos:broader <Data_preprocessing> .
+
+<Null_values> a skos:Concept;
+  rdfs:label "Null values";
+  skos:broader <Data_preprocessing> .
+
+<Outliers> a skos:Concept;
+  rdfs:label "Outliers";
+  skos:broader <Data_preprocessing> .
+
+<Data_transformation> a skos:Concept;
+  rdfs:label "Data transformation";
+  skos:broader <Data_preprocessing> .
+
+<Dimensional_reduction> a skos:Concept;
+  rdfs:label "Dimensional reduction" .
+
+<Principal_Component_Analysis_%28PCA%29> a skos:Concept;
+  rdfs:label "Principal Component Analysis (PCA)";
+  skos:broader <Dimensional_reduction> .
+
+<Exploratory_data_analysis> a skos:Concept;
+  rdfs:label "Exploratory data analysis" .
+
+<Categorical_EDA> a skos:Concept;
+  rdfs:label "Categorical EDA";
+  skos:broader <Exploratory_data_analysis> .
+
+<Univariate_analysis> a skos:Concept;
+  rdfs:label "Univariate analysis";
+  skos:broader <Exploratory_data_analysis> .
+
+<Multivariate_analysis> a skos:Concept;
+  rdfs:label "Multivariate analysis";
+  skos:broader <Exploratory_data_analysis> .
+
+<Regression> a skos:Concept;
+  rdfs:label "Regression" .
+
+<Linear_regression> a skos:Concept;
+  rdfs:label "Linear regression";
+  skos:broader <Regression> .
+
+<Simple_linear_regression> a skos:Concept;
+  rdfs:label "Simple linear regression";
+  skos:broader <Regression> .
+
+<Multiple_Linear_Regression> a skos:Concept;
+  rdfs:label "Multiple Linear Regression";
+  skos:broader <Regression> .
+
+<Nonlinear_regression> a skos:Concept;
+  rdfs:label "Nonlinear regression";
+  skos:broader <Regression> .
+
+<Decision_Trees_regression> a skos:Concept;
+  rdfs:label "Decision Trees regression";
+  skos:broader <Regression> .
+
+<Neural_network_regresion> a skos:Concept;
+  rdfs:label "Neural network regresion";
+  skos:broader <Regression> .
+
+<Diagnotic_analysis> a skos:Concept;
+  rdfs:label "Diagnotic analysis" .
+
+<Correlation> a skos:Concept;
+  rdfs:label "Correlation";
+  skos:broader <Diagnotic_analysis> .
+
+<Correspondence_analysis> a skos:Concept;
+  rdfs:label "Correspondence analysis";
+  skos:broader <Diagnotic_analysis> .
+
+<Descriptive_analysis> a skos:Concept;
+  rdfs:label "Descriptive analysis" .
+
+<Measures_of_Central_tendency> a skos:Concept;
+  rdfs:label "Measures of Central tendency";
+  skos:broader <Descriptive_analysis> .
+
+<Central_tendency> a skos:Concept;
+  rdfs:label "Central tendency";
+  skos:broader <Descriptive_analysis> .
+
+<Measures_of_Dispersion> a skos:Concept;
+  rdfs:label "Measures of Dispersion";
+  skos:broader <Descriptive_analysis> .
+
+<Variance_inflacton_factor> a skos:Concept;
+  rdfs:label "Variance inflacton factor";
+  skos:broader <Descriptive_analysis> .
+
+<Factor_analysis> a skos:Concept;
+  rdfs:label "Factor analysis";
+  skos:broader <Descriptive_analysis> .
+
+<Quartile_analysis> a skos:Concept;
+  rdfs:label "Quartile analysis";
+  skos:broader <Descriptive_analysis> .
+
+<Predictive_analytics> a skos:Concept;
+  rdfs:label "Predictive analytics" .
+
+<Decision_Trees_classification> a skos:Concept;
+  rdfs:label "Decision Trees classification";
+  skos:broader <Predictive_analytics> .
+
+<Neural_network_classification> a skos:Concept;
+  rdfs:label "Neural network classification";
+  skos:broader <Predictive_analytics> .
+
+<Nearest_Neighbors> a skos:Concept;
+  rdfs:label "Nearest Neighbors";
+  skos:broader <Predictive_analytics> .
+
+<Prescriptive_analytics> a skos:Concept;
+  rdfs:label "Prescriptive analytics" .
+
+<Inferential_analysis> a skos:Concept;
+  rdfs:label "Inferential analysis";
+  skos:broader <Prescriptive_analytics> .
+
+<Data_visualization> a skos:Concept;
+  rdfs:label "Data visualization" .
+
+<R_data_visualization> a skos:Concept;
+  rdfs:label "R data visualization";
+  skos:broader <Data_visualization> .
+
+<Python_data_visualization> a skos:Concept;
+  rdfs:label "Python data visualization";
+  skos:broader <Data_visualization> .
+
+<Power_BI> a skos:Concept;
+  rdfs:label "Power BI";
+  skos:broader <Data_visualization> .
+
+<Tableau> a skos:Concept;
+  rdfs:label "Tableau";
+  skos:broader <Data_visualization> .
+
+<matplotlib> a skos:Concept;
+  rdfs:label "matplotlib";
+  skos:broader <Data_visualization> .
+
+<Seaborn> a skos:Concept;
+  rdfs:label "Seaborn";
+  skos:broader <Data_visualization> .
+
+<Bokeh> a skos:Concept;
+  rdfs:label "Bokeh";
+  skos:broader <Data_visualization> .
+
+<Plotly> a skos:Concept;
+  rdfs:label "Plotly";
+  skos:broader <Data_visualization> .
