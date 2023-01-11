@@ -16,6 +16,12 @@ coleccion = db["dataScience_TIC"]
 # Consultar algunos documentos de MongoDB
 # documentos = coleccion.find()
 
+st.title("Data Science TIC")
+st.header("Exploración y Búsqueda de recursos para aprender Ciencia de Datos")
+
+if st.button("Enter Fullscreen Mode"):
+    st.fullscreen()
+
 # Solicitamos al usuario que ingrese una consulta
 consulta = st.text_input("Ingresa el tema a Consultar")
 
@@ -25,8 +31,15 @@ categories = coleccion.distinct("type")
 # utiliazmos el widget de selección de Streamlit para crear un elemento de selección HTML
 selected_category = st.selectbox('Elige una categoría', categories)
 
-# prueba consulta 1
-c1 = coleccion.find({"$and": [{"topic": "Data-scientist"}, {"voteCount": {"$lt": 1}}]})
+votos = st.number_input("Votos de popularidad:", min_value=0, max_value=1000, step=1)
+
+
+if selected_category == "youtube video":
+	# prueba de consulta
+	c2 = coleccion.find({"$and": [{"topic": consulta}, {"type": selected_category}, {"voteCount": {"$gt": votos}}]})
+else:
+	c1 = coleccion.find({"$and": [{"title": consulta}, {"type": selected_category}, {"voteCount": {"$gt": votos}}]})
+
 
 
 # Mostrar los resultados de MongoDB en la aplicación web
@@ -34,13 +47,25 @@ c1 = coleccion.find({"$and": [{"topic": "Data-scientist"}, {"voteCount": {"$lt":
 #for doc in c1:
 #   st.write(doc)
 
+
+
 # Crea una lista con los documentos que se van a mostrar en la tabla
 data = []
 for document in c1:
-    data.append([document["topic"], document["type"], document["autor"], document["title"]])
+	# link = document["urlKaggle"]
+	# url = f'<a href="{link}">URL Kaggle</a>'
+	#topic = document["topic"]
+	#types = document["type"]
+	#autor = document["author"]
+	#titulo = document["title"]
+	#url = document["urlKaggle"]
 
-st.table(data)
+	#data.append(topic, types, autor, titulo, url)
 
+
+    data.append([document["topic"], document["type"], document["autor"], document["title"], document["urlKaggle"]])
+
+st.table(data=data)
 
 
 # GraphDB
