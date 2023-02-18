@@ -1,0 +1,16 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX vocab: <http://rdf.ontology2.com/vocab#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+prefix dct: <http://purl.org/dc/terms/>
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+select distinct ?s ?l ?p ?t
+where 
+{ values ?p{ skos:broader dct:subject skos:broader owl:sameAs }
+    ?s rdfs:label ?l.
+    filter contains(?l, "Scrapy").
+    ?s ?p ?t
+}

@@ -1,0 +1,63 @@
+topic;topic_dbpedia;uri_dbpedia
+Data science concepts;Data_science;<http://dbpedia.org/resource/Data_science>
+Big data concepts;Big_data;<http://dbpedia.org/resource/Big_data>
+Data mining concepts;Data_mining;<http://dbpedia.org/resource/Data_mining>
+Machine learning algorithms;Machine_learning;<http://dbpedia.org/resource/Machine_learning>
+Python;Python_(programming_language);<http://dbpedia.org/resource/Python_(programming_language)>
+R;R_(programming_language);<http://dbpedia.org/resource/R_(programming_language)>
+Jupyter notebook;Project_Jupyter;<http://dbpedia.org/resource/Project_Jupyter>
+Apache spark;Apache_Spark;<http://dbpedia.org/resource/Apache_Spark>
+Kaggle;Kaggle;<http://dbpedia.org/resource/Kaggle>
+Github;GitHub;<http://dbpedia.org/resource/GitHub>
+Data extraction;Data_extraction;<http://dbpedia.org/resource/Data_extraction>
+API;Web_API;<http://dbpedia.org/resource/Web_API>
+Scrapy;Scrapy;<http://dbpedia.org/resource/Scrapy>
+Data Storage;Data_storage;<http://dbpedia.org/resource/Data_storage>
+Data quality;Data_quality;<http://dbpedia.org/resource/Data_quality>
+Data management;Data_management;<http://dbpedia.org/resource/Data_management>
+Data manipulation;Data_manipulation_language;<http://dbpedia.org/resource/Data_manipulation_language>
+Csv;Comma-separated_values;<http://dbpedia.org/resource/Comma-separated_values>
+Json;JSON;<http://dbpedia.org/resource/JSON>
+Txt;Text_file;<http://dbpedia.org/resource/Text_file>
+Data types;Data_type;<http://dbpedia.org/resource/Data_type>
+Data preprocessing;Data_pre-processing;<http://dbpedia.org/resource/Data_pre-processing>
+Data cleaning;Data_cleansing;<http://dbpedia.org/resource/Data_cleansing>
+Missing data;Missing_data;<http://dbpedia.org/resource/Missing_data>
+Outliers;Outlier;<http://dbpedia.org/resource/Outlier>
+Data transformation;Data_transformation;<http://dbpedia.org/resource/Data_transformation>
+Dimensional reduction;Dimensionality_reduction;<http://dbpedia.org/resource/Dimensionality_reduction>
+Principal Component Analysis (PCA);Principal_component_analysis;<http://dbpedia.org/resource/Principal_component_analysis>
+Exploratory data analysis;Exploratory_data_analysis;<http://dbpedia.org/resource/Exploratory_data_analysis>
+Categorical variables;Categorical_variable;<http://dbpedia.org/resource/Categorical_variable>
+Univariate data analysis;Univariate_analysis;<http://dbpedia.org/resource/Univariate_analysis>
+Multivariate data analysis;Multivariate_statistics;<http://dbpedia.org/resource/Multivariate_statistics>
+Regression;Regression;<http://dbpedia.org/resource/Regression>
+Linear regression;Linear_regression;<http://dbpedia.org/resource/Linear_regression>
+Simple linear regression;Simple_linear_regression;<http://dbpedia.org/resource/Simple_linear_regression>
+Multiple Linear Regression;Regression_analysis;<http://dbpedia.org/resource/Regression_analysis>
+Nonlinear regression;Nonlinear_regression;<http://dbpedia.org/resource/Nonlinear_regression>
+Decision Trees;Decision_tree;<http://dbpedia.org/resource/Decision_tree>
+Neural network;Neural_network;<http://dbpedia.org/resource/Neural_network>
+Correlation;Correlation;<http://dbpedia.org/resource/Correlation>
+Correspondence analysis;Correspondence_analysis;<http://dbpedia.org/resource/Correspondence_analysis>
+Descriptive analysis;Quantitative_Descriptive_Analysis;<http://dbpedia.org/resource/Quantitative_Descriptive_Analysis>
+Central tendency;Central_tendency;<http://dbpedia.org/resource/Central_tendency>
+Dispersion;Statistical_dispersion;<http://dbpedia.org/resource/Statistical_dispersion>
+Frequency;Frequency_(statistics);<http://dbpedia.org/resource/Frequency_(statistics)>
+Variance;Variance;<http://dbpedia.org/resource/Variance>
+Factor analysis;Factor_analysis;<http://dbpedia.org/resource/Factor_analysis>
+Quartile analysis;Quartile;<http://dbpedia.org/resource/Quartile>
+Predictive analytics;Predictive_analytics;<http://dbpedia.org/resource/Predictive_analytics>
+Decision Trees;Decision_tree;<http://dbpedia.org/resource/Decision_tree>
+Neural network;Neural_network;<http://dbpedia.org/resource/Neural_network>
+Nearest Neighbors;K-nearest_neighbors_algorithm;<http://dbpedia.org/resource/K-nearest_neighbors_algorithm>
+Inferential analysis;Statistical_inference;<http://dbpedia.org/resource/Statistical_inference>
+Data visualization;Data_and_information_visualization;<http://dbpedia.org/resource/Data_and_information_visualization>
+Microsoft Power BI;Microsoft_Power_BI;<http://dbpedia.org/resource/Microsoft_Power_BI>
+Tableau;Tableau;<http://dbpedia.org/resource/Tableau>
+Matplotlib;Matplotlib;<http://dbpedia.org/resource/Matplotlib>
+Plotly;Plotly;<http://dbpedia.org/resource/Plotly>
+;;
+;;
+;;
+;;
