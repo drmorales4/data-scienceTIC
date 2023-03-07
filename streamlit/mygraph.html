@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Regression", "label": "Regression", "shape": "dot", "title": "http://www.utpl.edu.ec/dsdata/Regression", "url": "http://www.utpl.edu.ec/dsdata/Regression"}, {"color": "#97c2fc", "id": "Linear regression", "label": "Linear regression", "shape": "dot", "title": "http://dbpedia.org/resource/Linear_regression", "url": "http://dbpedia.org/resource/Linear_regression"}]);
-                  edges = new vis.DataSet([{"from": "Regression", "to": "Linear regression"}]);
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Data extraction", "label": "Data extraction", "shape": "dot", "title": "http://www.utpl.edu.ec/dsdata/Data_extraction", "url": "http://www.utpl.edu.ec/dsdata/Data_extraction"}, {"color": "#97c2fc", "id": "Web scraping", "label": "Web scraping", "shape": "dot", "title": "http://dbpedia.org/resource/Category:Web_scraping", "url": "http://dbpedia.org/resource/Category:Web_scraping"}, {"color": "#97c2fc", "id": "Scrapy", "label": "Scrapy", "shape": "dot", "title": "http://dbpedia.org/resource/Scrapy", "url": "http://dbpedia.org/resource/Scrapy"}]);
+                  edges = new vis.DataSet([{"from": "Data extraction", "to": "Web scraping"}, {"from": "Data extraction", "to": "Scrapy"}, {"from": "Web scraping", "to": "Scrapy"}]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });
